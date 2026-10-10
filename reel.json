@@ -1,0 +1,91 @@
+{
+  "output": {
+    "name": "saglikcilar-evi"
+  },
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 33
+  },
+  "colors": {
+    "blue": "#1E5BA8",
+    "red": "#C0283C",
+    "paper": "#FAF7F0",
+    "night": "#0F1B2D"
+  },
+  "safeArea": {
+    "left": 90,
+    "right": 990,
+    "top": 250,
+    "bottom": 1480
+  },
+  "list": {
+    "items": ["Öğretmenevi", "Polisevi", "Orduevi", "Hâkimevi", "Vilayetler Evi"],
+    "emptyItem": "Sağlıkçılar Evi"
+  },
+  "scenes": [
+    {
+      "type": "list",
+      "start": 0,
+      "end": 7,
+      "firstLineAt": 0.5,
+      "lineInterval": 1
+    },
+    {
+      "type": "listQuestion",
+      "start": 7,
+      "end": 11,
+      "writeAt": 7.1,
+      "pencilAt": 8.0,
+      "questionAt": 9.5
+    },
+    {
+      "type": "night",
+      "start": 11,
+      "end": 20,
+      "label": "2020 · Pandemi",
+      "doors": ["Orduevi", "Misafirhane"],
+      "doorsAt": 15.5
+    },
+    {
+      "type": "cards",
+      "start": 20,
+      "end": 26,
+      "cards": ["Kurs", "Sınav", "Tayin"],
+      "cardsAt": 20.3,
+      "cardInterval": 0.8,
+      "question": "Nerede kalacağım?",
+      "questionAt": 23.8
+    },
+    {
+      "type": "finale",
+      "start": 26,
+      "end": 33,
+      "slogan": "Bu soruna neşter vurma zamanı.",
+      "closingAt": 28.8,
+      "closingTitle": "İlk Sağlıkçılar Evi Kastamonu'da açılsın mı?",
+      "closingCta": "Yorumlara evet yaz.",
+      "handle": "@gsskastamonu"
+    }
+  ],
+  "subtitles": [
+    { "start": 0.3, "end": 2.0, "text": "Öğretmenevi var." },
+    { "start": 2.0, "end": 7.0, "text": "Polisevi, orduevi, hâkimevi, Vilayetler Evi var." },
+    { "start": 7.0, "end": 11.0, "text": "Bir milyonu aşkın sağlık çalışanı için böyle bir ev yok." },
+    { "start": 11.0, "end": 15.5, "text": "2020'de pandemide sağlıkçılar, evlerine virüs taşımamak için kalacak yer aradı." },
+    { "start": 15.5, "end": 20.0, "text": "Onları orduevleri ve başka kurumların misafirhaneleri ağırladı." },
+    { "start": 20.0, "end": 23.8, "text": "Bugün de kursa, sınava ya da tayine giden sağlıkçı aynı soruyu soruyor." },
+    { "start": 23.8, "end": 26.0, "text": "Nerede kalacağım?" },
+    { "start": 26.0, "end": 28.8, "text": "Bu soruna neşter vurma zamanı." },
+    { "start": 28.8, "end": 31.3, "text": "İlk Sağlıkçılar Evi Kastamonu'da açılsın mı?" },
+    { "start": 31.3, "end": 33.0, "text": "Yorumlara evet yaz." }
+  ],
+  "subtitleStyle": {
+    "fontSize": 58,
+    "maxLines": 2
+  },
+  "cover": {
+    "title": "Neden Sağlıkçılar Evi yok?"
+  }
+}
