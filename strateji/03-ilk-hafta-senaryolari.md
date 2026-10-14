@@ -25,7 +25,7 @@ Altı video: soğuyan tepsi (Virale ile üretildi), bir kişi beş iş, acil tri
 
 Bu videonun görüntüleri 14 Ekim'de Virale ile üretildi: 5 sahne, 22 saniye, 480p. Saat yazıları videonun üstünde.
 
-Taslak videoyu indir · Sıcak tepsi karesi · Soğuk tepsi karesi
+[Taslak videoyu indir](https://chatplace-master-storage.storage.googleapis.com/growthbase/multi-video/01a13aac-d107-7283-a3fa-a4addc51eb01/final.mp4) · [Sıcak tepsi karesi](https://master-virale.storage.googleapis.com/sequence-images/92f40800-9218-4e2f-a9d7-d505455acc94_image_1.jpg) · [Soğuk tepsi karesi](https://master-virale.storage.googleapis.com/sequence-images/92f40800-9218-4e2f-a9d7-d505455acc94_image_2.jpg)
 
 - Instagram'da paylaşırken gelişmiş ayarlardan yapay zekâ etiketini açın. Açıklamanın son satırı da bunu söylüyor.
 - Videoda ses yok. CapCut'ta ya da Instagram'ın ses kütüphanesinden hafif bir saat tik-takı ekleyin, müzik koymayın.
@@ -622,13 +622,23 @@ Sahadan gelen gerçek bir olay. Ameliyathanede 7 kişilik ekip 11.00'de vakaya g
 
 **Amaç:** Ameliyathane, acil ve yoğun bakım çalışanlarının “bizde de aynısı” deyip paylaşması, idareye götürülecek talep için örnek toplamak.
 
+### Açılış Virale ile üretildi
+
+0-3 saniyelik açılış 14 Ekim'de Virale ile üretildi: karanlık ameliyathane, şalter sesiyle yanan lambalar, masanın başında 7 kişilik ekip. 5,6 saniye, 480p. İçinde gerçek kişi yok.
+
+[Ham klibi indir (sessiz, yazısız)](https://chatplace-master-storage.storage.googleapis.com/reels-factory/b-roll/broll_byteplus_seedance_mini_async_01a13b02-6481-70eb-9478-b9cd73e1fa68.mp4)
+
+- Sesli ve yazılı sürüm hesabı yöneten arkadaşta: monitör bipi, şalter sesi ve “11.00 · 7 kişi vakaya girdi” yazısı ekli.
+- Instagram'da paylaşırken gelişmiş ayarlardan yapay zekâ etiketini açın. Açıklamanın son satırı da bunu söylüyor.
+- Geri kalan sahneler (yemekhane, ameliyathane kapısı, koridor, telefon) telefonla çekilecek. Aşağıdaki çekim planı geçerli.
+
 ### Gerçek olaydan çekerken
 
-Olayı yaşayan ekipten izin alın. Hastane, servis ve tarih gibi onları tanıtacak bilgileri değiştirin. Yüzlerin görünmesi gerekmiyor, bone ve maske zaten çoğunu kapatır. Ekip fotoğrafı Virale ile canlandırılacaksa fotoğraftaki herkesin onayı olsun ve paylaşırken yapay zekâ etiketi açılsın. Telefon ekranındaki tutar gerçek olsun, uygulamanın logosu görünmesin.
+Olayı yaşayan ekipten izin alın. Hastane, servis ve tarih gibi onları tanıtacak bilgileri değiştirin. Yüzlerin görünmesi gerekmiyor, bone ve maske zaten çoğunu kapatır. Telefon ekranındaki tutar gerçek olsun, uygulamanın logosu görünmesin.
 
 ### İlk 3 saniye için hook seçenekleri
 
-1. **Görsel / saat (önerilen):** Ameliyathanede 7 kişilik ekip yerini alıyor, kapı kapanıyor. Ekranda “11.00 · 7 kişi vakaya girdi”.
+1. **Görsel / saat (önerilen):** Karanlık ameliyathanede monitör bipi. Şalter sesiyle lambalar yanıyor, 7 kişilik ekip masanın başında. Ekranda “11.00 · 7 kişi vakaya girdi”.
 2. **Soru:** “Ameliyattan 14.00'te çıkan 7 kişi nerede yemek yer?”
 3. **Karşılaştırma:** Ekranın üstünde iki satır: “Yemekhane: 12.30 - 13.30” ve “Vaka: 11.00 - 14.00”.
 
@@ -636,11 +646,11 @@ Olayı yaşayan ekipten izin alın. Hastane, servis ve tarih gibi onları tanıt
 
 #### 0-3 sn
 
-**Görüntü:** Ameliyathanede ekip yerini alıyor: anestezi uzmanı ve teknisyeni cihaz başında, cerrah ve üç hemşire masada, bir personel kapı yanında. Kapı kapanıyor, üstündeki ışık yanıyor. Bu sahne ekip fotoğrafından Virale ile canlandırılabilir.
+**Görüntü:** Karanlık ameliyathane, tek ışık monitörden geliyor. Şalter sesiyle ameliyat lambaları yanıyor: anestezi uzmanı ve teknisyeni cihaz başında, cerrah ve hemşireler masada, bir personel kenarda. Kamera yavaşça yaklaşıyor. Bu sahne Virale ile hazır.
 
 **Ekran yazısı:** 11.00 · 7 kişi vakaya girdi
 
-**Ses:** Kapı sesi, içeriden monitör sesi.
+**Ses:** Monitör bipi, şalter sesi, havalandırma uğultusu. Videoda hazır.
 
 #### 3-7 sn
 
@@ -713,7 +723,7 @@ Ameliyathanede, acilde, yoğun bakımda vaka saate bakmıyor. Yemekhane de buna 
 
 Senin hastanende geç çıkana yemek ayrılıyor mu? Yorumlara yaz, örnekleri toplayıp idareye götürelim.
 
-Bu bir dramatizasyondur. Yaşayan herkes bilir.
+Bu bir dramatizasyondur, açılış sahnesi yapay zekâyla üretildi. Yaşayan herkes bilir.
 #Kastamonu #Ameliyathane #Hemşire #SağlıkÇalışanları #Yemekhane
 ```
 
@@ -729,13 +739,13 @@ Bu bir dramatizasyondur. Yaşayan herkes bilir.
 
 **Kamera açıları:** Kapı ve yemekhane için sabit planlar, koridorda arkadan takip, telefon için yakın plan.
 
-**Oyuncular:** Açılış sahnesi için 7 kişilik ameliyathane ekibi ya da ekip fotoğrafından Virale canlandırması. Koridor ve yemekhane sahneleri için 2-3 kişi yeter, yüzlerin görünmesi gerekmiyor.
+**Oyuncular:** Açılış sahnesi Virale ile hazır, oyuncu gerekmiyor. Koridor ve yemekhane sahneleri için 2-3 kişi yeter, yüzlerin görünmesi gerekmiyor.
 
 **Mekân:** Ameliyathane girişi, yemekhane, koridor, soyunma odası.
 
 **Malzeme:** Bone, maske, telefon, duvar saati.
 
-**Müzik ve ses:** Müzik yok. Kapı sesleri, yemekhane uğultusu, kilit sesi, saat tik-takı.
+**Müzik ve ses:** Müzik yok. Açılışta monitör bipi ve şalter sesi (videoda hazır), sonra kapı sesleri, yemekhane uğultusu, kilit sesi, saat tik-takı.
 
 **Kurgu ritmi:** Ameliyathane ile yemekhane arasında gidip gelen kesmeler, her biri 4 sn. Kilitli kapıda 2 sn bekleme.
 

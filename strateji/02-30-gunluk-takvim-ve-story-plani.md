@@ -75,7 +75,7 @@ Her gün için Reels, Story, gönderi ya da karusel ve o günün hazırlığı. 
 - **Story:**
   - Dünkü anketin sonucu
   - Soru kutusu: “Bugün hastanede duyduğun en absürt cümle?”
-- **Hazırlık:** Nöbet odası (emlak ilanı) çekimi. Yemekhane videosu için olayı yaşayan ekiple konuş, izin al, gerçek saatleri ve sipariş tutarını not et. Ekip fotoğrafı Virale ile canlandırılacaksa fotoğrafı @gsskastamonu'ya DM olarak gönder.
+- **Hazırlık:** Nöbet odası (emlak ilanı) çekimi. Yemekhane videosu için olayı yaşayan ekiple konuş, izin al, gerçek saatleri ve sipariş tutarını not et. Ameliyathane açılışı Virale ile hazır, onu çekmeye gerek yok.
 
 ### Cmt 24 Eki
 
@@ -289,7 +289,7 @@ En az ekip: 1 kişi çekim (telefon ve tripod), 1 kişi kurgu (CapCut), 1 kişi 
 | Sal 20 Eki | 20.45 | Sendikal talep | **Sağlıkçılar Evi (hazır video)** | “Öğretmenevi var.” | 33 sn | Kursa, sınava, tayine giden sağlıkçının kalacak yeri yok. | Defterde boş kalan satır: Öğretmenevi, Polisevi, Orduevi var, Sağlıkçılar Evi yok. |
 | Per 22 Eki | 12.30 | Hak / mevzuat | **Amirin Bunu Diyebilir mi? B1:** Nöbet listesi son dakika değişti | Beyaz tahtadan bir isim düşüyor, kalanlar Tetris gibi boşluğa kayıyor | 35-40 sn | Bir kişi eksilince liste bir gün önceden değişiyor, aynı kişi üst üste gece yazılıyor. | Mıknatıslı nöbet çizelgesiyle stop-motion, ardından temsilciden 3 madde. |
 | Cmt 24 Eki | 20.45 | Mizahla anlatılan sorun | **Nöbet Odası Turu B1:** Emlak ilanı | “Bugün sizlere kaçırılmayacak bir fırsat gösteriyorum!” | 25-30 sn | Penceresiz, tek yataklı, banyosu koridorun sonunda olan nöbet odaları. | Emlakçı parodisi: 1+0, pencere 0, yatak 1, kullanan 3. |
-| Paz 25 Eki | 11.45 | Günlük hayat · sessiz | **Kağıt Üzerinde B2:** Yemekhane kapandı | Ameliyathanede 7 kişilik ekip, ekranda “11.00 · 7 kişi vakaya girdi” | 25-30 sn | Yemekhane 12.30-13.30 arası açık. Vakadan 14.00'te çıkan 7 kişilik ekip dışarıdan kendi parasıyla yemek söylüyor. | Ameliyathane kapısı ile yemekhane arasında gidip gelen kurgu, saat yazıları, sonda kilitli kapı ve sipariş ekranı. |
+| Paz 25 Eki | 11.45 | Günlük hayat · sessiz | **Kağıt Üzerinde B2:** Yemekhane kapandı | Karanlık ameliyathanede monitör bipi, lambalar yanıyor: “11.00 · 7 kişi vakaya girdi” | 25-30 sn | Yemekhane 12.30-13.30 arası açık. Vakadan 14.00'te çıkan 7 kişilik ekip dışarıdan kendi parasıyla yemek söylüyor. | Açılış Virale ile hazır: karanlık ameliyathanede lambalar yanıyor. Sonra ameliyathane kapısı ile yemekhane arasında gidip gelen kurgu, saat yazıları, sonda kilitli kapı ve sipariş ekranı. |
 | Pzt 26 Eki | | Karusel | Nöbet listesi değişirse: 3 adım | | | | 22 Ekim Reels'inin kaydedilebilir özeti |
 | Sal 27 Eki | 20.45 | Sendikal / saha | **Siz Yazdınız, Biz Götürdük B1:** “Gece en az 2 hemşire” dosyası | “12 Ekim'de ‘yorumlara yaz’ dedik. Yazdınız.” | 30 sn | Serviste gece tek hemşire. | Yorumlar kâğıda basılıp panoya iğneleniyor, sonra hepsi bir dosyaya giriyor. *İl Sağlık'a yazı gerçekten verildiyse evrak numarası bulanıklaştırılarak gösterilsin. Verilmediyse “verdik” denmez, video yorumlarda en çok tekrar eden 3 cümle üzerine kurulur.* |
 | Per 29 Eki | | | **Reels yok · Cumhuriyet Bayramı** | | | | Story ve tek görsel |
