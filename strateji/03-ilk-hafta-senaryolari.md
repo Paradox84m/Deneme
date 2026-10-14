@@ -614,9 +614,9 @@ Stop-motion girişi hak videosunu kaydırılmaktan kurtarır. Patlamaz ama kayde
 
 ## Kağıt Üzerinde B2 · Yemekhane kapandı
 
-Sahadan gelen gerçek bir olay. Ameliyathane hemşiresi 11.00'de vakaya giriyor, 14.00'te çıkıyor. Yemekhane 12.30 ile 13.30 arası açık. Kamera ameliyathane kapısıyla yemekhane arasında gidip geliyor.
+Sahadan gelen gerçek bir olay. Ameliyathanede 7 kişilik ekip 11.00'de vakaya giriyor, 14.00'te çıkıyor: 1 anestezi uzmanı, 1 anestezi teknisyeni, 1 cerrah, 3 hemşire, 1 personel. Yemekhane 12.30 ile 13.30 arası açık. Kamera ameliyathane kapısıyla yemekhane arasında gidip geliyor.
 
-**Sorun:** Yemekhane saatleri ameliyathanenin ve nöbetin gerçek saatlerine göre ayarlanmamış. Vakadan geç çıkan yemeksiz kalıyor, dışarıdan kendi parasıyla yemek söylüyor.
+**Sorun:** Yemekhane saatleri ameliyathanenin ve nöbetin gerçek saatlerine göre ayarlanmamış. Vakadan geç çıkan bütün ekip yemeksiz kalıyor, dışarıdan kendi parasıyla yemek söylüyor.
 
 **Talep:** Vakadan ya da nöbetten geç çıkan personele yemek ayrılsın.
 
@@ -624,21 +624,21 @@ Sahadan gelen gerçek bir olay. Ameliyathane hemşiresi 11.00'de vakaya giriyor,
 
 ### Gerçek olaydan çekerken
 
-Olayı yaşayan hemşireden izin alın. Hastane, servis ve tarih gibi onu tanıtacak bilgileri değiştirin. İsterse kendisi oynasın, yüzü görünmek zorunda değil. Telefon ekranındaki tutar gerçek olsun, uygulamanın logosu görünmesin.
+Olayı yaşayan ekipten izin alın. Hastane, servis ve tarih gibi onları tanıtacak bilgileri değiştirin. Yüzlerin görünmesi gerekmiyor, bone ve maske zaten çoğunu kapatır. Ekip fotoğrafı Virale ile canlandırılacaksa fotoğraftaki herkesin onayı olsun ve paylaşırken yapay zekâ etiketi açılsın. Telefon ekranındaki tutar gerçek olsun, uygulamanın logosu görünmesin.
 
 ### İlk 3 saniye için hook seçenekleri
 
-1. **Görsel / saat (önerilen):** Ameliyathane kapısı kapanıyor, üstündeki ışık yanıyor. Ekranda “11.00 · Vakaya girdi”.
-2. **Soru:** “Ameliyattan 14.00'te çıkan hemşire nerede yemek yer?”
+1. **Görsel / saat (önerilen):** Ameliyathanede 7 kişilik ekip yerini alıyor, kapı kapanıyor. Ekranda “11.00 · 7 kişi vakaya girdi”.
+2. **Soru:** “Ameliyattan 14.00'te çıkan 7 kişi nerede yemek yer?”
 3. **Karşılaştırma:** Ekranın üstünde iki satır: “Yemekhane: 12.30 - 13.30” ve “Vaka: 11.00 - 14.00”.
 
 ### Akış
 
 #### 0-3 sn
 
-**Görüntü:** Ameliyathane kapısı kapanıyor, üstündeki ışık yanıyor. Camın arkasında bone takan bir siluet.
+**Görüntü:** Ameliyathanede ekip yerini alıyor: anestezi uzmanı ve teknisyeni cihaz başında, cerrah ve üç hemşire masada, bir personel kapı yanında. Kapı kapanıyor, üstündeki ışık yanıyor. Bu sahne ekip fotoğrafından Virale ile canlandırılabilir.
 
-**Ekran yazısı:** 11.00 · Vakaya girdi
+**Ekran yazısı:** 11.00 · 7 kişi vakaya girdi
 
 **Ses:** Kapı sesi, içeriden monitör sesi.
 
@@ -666,7 +666,7 @@ Olayı yaşayan hemşireden izin alın. Hastane, servis ve tarih gibi onu tanıt
 
 #### 15-20 sn
 
-**Görüntü:** Ameliyathane kapısı açılıyor. Hemşire boneyi çıkararak koridorda hızlı yürüyor, yemekhane kapısına varıyor. Kapı kilitli, camdan karanlık salona bakıyor.
+**Görüntü:** Ameliyathane kapısı açılıyor. Ekip bonelerini çıkararak koridorda yürüyor, öndeki hemşire yemekhane kapısına varıyor. Kapı kilitli, camdan karanlık salona bakıyorlar.
 
 **Ekran yazısı:** 14.05 · Kapı kilitli
 
@@ -677,7 +677,7 @@ Olayı yaşayan hemşireden izin alın. Hastane, servis ve tarih gibi onu tanıt
 **Görüntü:** Soyunma odası, telefon ekranı yakın plan: yemek siparişi sepeti, gerçek tutar, “tahmini teslim 40 dakika”. Ardından duvar saati 14.30.
 
 **Ekran yazısı:**  
-14.10 · Sipariş: \_\_\_ TL, kendi cebinden  
+14.10 · 7 kişilik sipariş: \_\_\_ TL, kendi ceplerinden  
 14.30 · Sıradaki vaka. Yemek hâlâ yolda.
 
 #### 24-28 sn
@@ -698,16 +698,16 @@ Yemekhane 13.30'da kapanıyor. Ameliyat 13.30'da bitmiyor.
 
 ### Ekran yazıları
 
-11.00 · Vakaya girdi / 12.30 · Yemekhane açıldı / 13.10 · Vaka sürüyor / 13.30 · Yemekhane kapandı / 14.05 · Kapı kilitli / 14.10 · Sipariş: \_\_\_ TL, kendi cebinden / 14.30 · Sıradaki vaka. Yemek hâlâ yolda. / Yemekhane 13.30'da kapanıyor. Ameliyat 13.30'da bitmiyor.
+11.00 · 7 kişi vakaya girdi / 12.30 · Yemekhane açıldı / 13.10 · Vaka sürüyor / 13.30 · Yemekhane kapandı / 14.05 · Kapı kilitli / 14.10 · 7 kişilik sipariş: \_\_\_ TL, kendi ceplerinden / 14.30 · Sıradaki vaka. Yemek hâlâ yolda. / Yemekhane 13.30'da kapanıyor. Ameliyat 13.30'da bitmiyor.
 
 ### Reels açıklaması
 
 ```
-11.00'de vakaya girdi.
+11.00'de 7 kişi vakaya girdi: 1 anestezi uzmanı, 1 anestezi teknisyeni, 1 cerrah, 3 hemşire, 1 personel.
 Yemekhane 12.30'da açıldı, 13.30'da kapandı.
-14.00'te vakadan çıktı. Kapı kilitliydi.
+14.00'te vakadan çıktılar. Yemekhanenin kapısı kilitliydi.
 
-Dışarıdan kendi parasıyla yemek söyledi. Yemek gelmeden sıradaki vaka başladı.
+Dışarıdan kendi paralarıyla yemek söylediler. Yemek gelmeden sıradaki vaka başladı.
 
 Ameliyathanede, acilde, yoğun bakımda vaka saate bakmıyor. Yemekhane de buna göre ayarlanmalı: vakadan ya da nöbetten geç çıkana yemek ayrılsın.
 
@@ -729,7 +729,7 @@ Bu bir dramatizasyondur. Yaşayan herkes bilir.
 
 **Kamera açıları:** Kapı ve yemekhane için sabit planlar, koridorda arkadan takip, telefon için yakın plan.
 
-**Oyuncular:** 1 ameliyathane hemşiresi. Olayı yaşayan kişi isterse kendisi, yüzü görünmeyebilir.
+**Oyuncular:** Açılış sahnesi için 7 kişilik ameliyathane ekibi ya da ekip fotoğrafından Virale canlandırması. Koridor ve yemekhane sahneleri için 2-3 kişi yeter, yüzlerin görünmesi gerekmiyor.
 
 **Mekân:** Ameliyathane girişi, yemekhane, koridor, soyunma odası.
 
