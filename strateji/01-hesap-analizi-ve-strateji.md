@@ -144,10 +144,10 @@ fedakârlık, haykırıyoruz, emek mücadelesi, sesimizi gür duyuracağız, omu
 | # | Seri | Format | Sorun | Meslekler | Bu ay |
 | --- | --- | --- | --- | --- | --- |
 | 1 | **Bir Nöbette** | 30-45 sn dramatizasyon. Üst üste binen talepler, tek cümle final. | Bir kişiye düşen iş yükü, eksik personel | ATT, ebe, 112 ekibi | B2 triyaj · B3 doğumhane · B4 112 |
-| 2 | **Kağıt Üzerinde** | Sessiz anlatım. Saat yazıları, son kare tek cümle. | Kâğıtta olan hakla sahada yaşanan arasındaki fark: mola, mesai | Yoğun bakım hemşiresi, anestezi teknikeri (yedek) | B1 soğuyan tepsi |
+| 2 | **Kağıt Üzerinde** | Sessiz anlatım. Saat yazıları, son kare tek cümle. | Kâğıttaki kuralla sahada yaşanan arasındaki fark: mola, yemek, mesai | Yoğun bakım ve ameliyathane hemşiresi, anestezi teknikeri (yedek) | B1 soğuyan tepsi · B2 yemekhane kapandı |
 | 3 | **Görev Tanımında Yok** | Kamera kıpırdamaz, kişi her dönüşte başka bir işin aksesuarıyla belirir. | Kadro eksikliğinde görev tanımı dışı işler | ASM aile sağlığı çalışanı, sonra takipçi cevaplarıyla diğerleri | B1 (B2 Story cevaplarından) |
 | 4 | **Amirin Bunu Diyebilir mi?** | Yaratıcı bir giriş, ardından temsilciden 3 maddelik hak açıklaması. | Son dakika nöbet listesi, kullandırılmayan izin | Herkes | B1 nöbet listesi · B2 izin |
-| 5 | **Görünmeyen Ekip** | Ekranda pek görünmeyen birimler. Bu ay film jeneriği formatında. | Ameliyathane ve destek birimlerinde gece kadrosu | Anestezi, ameliyathane, sterilizasyon | B1 (B2 yedekte) |
+| 5 | **Görünmeyen Ekip** | Ekranda pek görünmeyen birimler. İlk bölüm film jeneriği formatında. | Ameliyathane ve destek birimlerinde gece kadrosu | Anestezi, ameliyathane, sterilizasyon | Bu ay yok. Yedekte: B1 jenerik, B2 sterilizasyon |
 | 6 | **İki Hayat** | Bölünmüş ekran: aynı saatte hastane ve ev. | Nöbet sayısı ve uzun nöbetlerin aile hayatına etkisi | Radyoloji teknikeri, sonra diğerleri | B1 |
 | 7 | **Gerçek Sayılar** | Uydurma yok, sahadan ölçülen sayı. Adım sayar, parmakla nöbet sayısı. | Görünmeyen iş yükü ve nöbet sayısı | Karışık | B1 adım · B2 nöbet sayısı |
 | 8 | **Yol Hikâyesi** | Kastamonu'ya özel. Navigasyon sesi ve kış yolu. | Geçici görevlendirme, ilçe yolu, ulaşım | İlçe hastanesi ve ASM çalışanları | B1 |

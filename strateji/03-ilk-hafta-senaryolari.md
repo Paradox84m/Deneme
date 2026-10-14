@@ -1,6 +1,6 @@
-# İlk Hafta Senaryoları (15 - 22 Ekim 2026)
+# Hazır Senaryolar (15 - 25 Ekim 2026)
 
-Beş video: iki yeni senaryo, hazır olan triyaj senaryosu ve Sağlıkçılar Evi, bir de stop-motion girişiyle yenilenen nöbet listesi videosu. Hepsi telefonla çekilecek şekilde yazıldı.
+Altı video: soğuyan tepsi (Virale ile üretildi), bir kişi beş iş, acil triyaj, Sağlıkçılar Evi, nöbet listesi ve sahadan gelen yemekhane olayı. Hepsi telefonla çekilecek şekilde yazıldı.
 
 ### Tüm çekimler için ortak kurallar
 
@@ -609,3 +609,148 @@ Bu bir dramatizasyondur. Genel bilgidir, kendi durumun için bize yaz.
 **Çekim zorluğu:** 5/10
 
 Stop-motion girişi hak videosunu kaydırılmaktan kurtarır. Patlamaz ama kaydedilir, DM getirir ve “bu sendika işime yarar” düşüncesini en doğrudan kuran format bu.
+
+*Pazar 25 Ekim · 11.45 · 25-30 sn · sessiz*
+
+## Kağıt Üzerinde B2 · Yemekhane kapandı
+
+Sahadan gelen gerçek bir olay. Ameliyathane hemşiresi 11.00'de vakaya giriyor, 14.00'te çıkıyor. Yemekhane 12.30 ile 13.30 arası açık. Kamera ameliyathane kapısıyla yemekhane arasında gidip geliyor.
+
+**Sorun:** Yemekhane saatleri ameliyathanenin ve nöbetin gerçek saatlerine göre ayarlanmamış. Vakadan geç çıkan yemeksiz kalıyor, dışarıdan kendi parasıyla yemek söylüyor.
+
+**Talep:** Vakadan ya da nöbetten geç çıkan personele yemek ayrılsın.
+
+**Amaç:** Ameliyathane, acil ve yoğun bakım çalışanlarının “bizde de aynısı” deyip paylaşması, idareye götürülecek talep için örnek toplamak.
+
+### Gerçek olaydan çekerken
+
+Olayı yaşayan hemşireden izin alın. Hastane, servis ve tarih gibi onu tanıtacak bilgileri değiştirin. İsterse kendisi oynasın, yüzü görünmek zorunda değil. Telefon ekranındaki tutar gerçek olsun, uygulamanın logosu görünmesin.
+
+### İlk 3 saniye için hook seçenekleri
+
+1. **Görsel / saat (önerilen):** Ameliyathane kapısı kapanıyor, üstündeki ışık yanıyor. Ekranda “11.00 · Vakaya girdi”.
+2. **Soru:** “Ameliyattan 14.00'te çıkan hemşire nerede yemek yer?”
+3. **Karşılaştırma:** Ekranın üstünde iki satır: “Yemekhane: 12.30 - 13.30” ve “Vaka: 11.00 - 14.00”.
+
+### Akış
+
+#### 0-3 sn
+
+**Görüntü:** Ameliyathane kapısı kapanıyor, üstündeki ışık yanıyor. Camın arkasında bone takan bir siluet.
+
+**Ekran yazısı:** 11.00 · Vakaya girdi
+
+**Ses:** Kapı sesi, içeriden monitör sesi.
+
+#### 3-7 sn
+
+**Görüntü:** Yemekhane. Tepsiler diziliyor, tencereden buhar çıkıyor, personel sırayla yemek alıyor (sırttan, yüzler görünmeden).
+
+**Ekran yazısı:** 12.30 · Yemekhane açıldı
+
+**Ses:** Tabak, çatal ve kalabalık uğultusu.
+
+#### 7-11 sn
+
+**Görüntü:** Ameliyathane kapısı hâlâ kapalı, ışık yanıyor. Koridordaki duvar saati 13.10.
+
+**Ekran yazısı:** 13.10 · Vaka sürüyor
+
+#### 11-15 sn
+
+**Görüntü:** Yemekhanede tezgâh siliniyor, ışıklar sönüyor, kapı kilitleniyor.
+
+**Ekran yazısı:** 13.30 · Yemekhane kapandı
+
+**Ses:** Kilit sesi.
+
+#### 15-20 sn
+
+**Görüntü:** Ameliyathane kapısı açılıyor. Hemşire boneyi çıkararak koridorda hızlı yürüyor, yemekhane kapısına varıyor. Kapı kilitli, camdan karanlık salona bakıyor.
+
+**Ekran yazısı:** 14.05 · Kapı kilitli
+
+**Kamera:** Arkadan takip, kilitli kapıda sabit plan.
+
+#### 20-24 sn
+
+**Görüntü:** Soyunma odası, telefon ekranı yakın plan: yemek siparişi sepeti, gerçek tutar, “tahmini teslim 40 dakika”. Ardından duvar saati 14.30.
+
+**Ekran yazısı:**  
+14.10 · Sipariş: \_\_\_ TL, kendi cebinden  
+14.30 · Sıradaki vaka. Yemek hâlâ yolda.
+
+#### 24-28 sn
+
+**Görüntü:** Kilitli yemekhane kapısı, sabit plan. Ya da siyah ekran.
+
+**Ekran yazısı:**  
+Yemekhane 13.30'da kapanıyor. Ameliyat 13.30'da bitmiyor.  
+Ardından küçük: Senin hastanende geç çıkana yemek ayrılıyor mu? Logo.
+
+### Final cümlesi
+
+Yemekhane 13.30'da kapanıyor. Ameliyat 13.30'da bitmiyor.
+
+### Kapak yazısı
+
+Üst etiket “KAĞIT ÜZERİNDE · 2”, ana yazı “Yemekhane 13.30'da kapandı. Ameliyat 14.00'te bitti.”
+
+### Ekran yazıları
+
+11.00 · Vakaya girdi / 12.30 · Yemekhane açıldı / 13.10 · Vaka sürüyor / 13.30 · Yemekhane kapandı / 14.05 · Kapı kilitli / 14.10 · Sipariş: \_\_\_ TL, kendi cebinden / 14.30 · Sıradaki vaka. Yemek hâlâ yolda. / Yemekhane 13.30'da kapanıyor. Ameliyat 13.30'da bitmiyor.
+
+### Reels açıklaması
+
+```
+11.00'de vakaya girdi.
+Yemekhane 12.30'da açıldı, 13.30'da kapandı.
+14.00'te vakadan çıktı. Kapı kilitliydi.
+
+Dışarıdan kendi parasıyla yemek söyledi. Yemek gelmeden sıradaki vaka başladı.
+
+Ameliyathanede, acilde, yoğun bakımda vaka saate bakmıyor. Yemekhane de buna göre ayarlanmalı: vakadan ya da nöbetten geç çıkana yemek ayrılsın.
+
+Senin hastanende geç çıkana yemek ayrılıyor mu? Yorumlara yaz, örnekleri toplayıp idareye götürelim.
+
+Bu bir dramatizasyondur. Yaşayan herkes bilir.
+#Kastamonu #Ameliyathane #Hemşire #SağlıkÇalışanları #Yemekhane
+```
+
+### Çekim bilgileri
+
+**Çekim planı:**
+
+1. Ameliyathane kapısı ve üstündeki ışık. Ameliyathaneye izin yoksa herhangi bir çift kanatlı kapı ve duvar saati.
+2. Yemekhane açıkken 15-20 saniyelik genel plan. Kalabalık sırttan, yüzler görünmeden, yemekhane sorumlusunun izniyle.
+3. Yemekhane kapanırken: tezgâh, sönen ışıklar, kilitlenen kapı.
+4. Hemşirenin koridor yürüyüşü ve kilitli kapı önü.
+5. Telefon ekranında sipariş sepeti. Tutar gerçek, uygulama logosu görünmesin.
+
+**Kamera açıları:** Kapı ve yemekhane için sabit planlar, koridorda arkadan takip, telefon için yakın plan.
+
+**Oyuncular:** 1 ameliyathane hemşiresi. Olayı yaşayan kişi isterse kendisi, yüzü görünmeyebilir.
+
+**Mekân:** Ameliyathane girişi, yemekhane, koridor, soyunma odası.
+
+**Malzeme:** Bone, maske, telefon, duvar saati.
+
+**Müzik ve ses:** Müzik yok. Kapı sesleri, yemekhane uğultusu, kilit sesi, saat tik-takı.
+
+**Kurgu ritmi:** Ameliyathane ile yemekhane arasında gidip gelen kesmeler, her biri 4 sn. Kilitli kapıda 2 sn bekleme.
+
+**Yayın:** Pazar 11.45
+
+### Puanlar
+
+**Viral potansiyeli:** 7/10
+
+**Sağlıkçının paylaşma ihtimali:** 9/10
+
+**Yorum alma ihtimali:** 8/10
+
+**Sendikaya faydası:** 8/10
+
+**Çekim zorluğu:** 4/10
+
+Gerçek bir olaydan geldiği ve çözümü belli bir talebe bağlandığı için hem paylaşılır hem de idareye götürülecek dosyanın ilk adımı olur.

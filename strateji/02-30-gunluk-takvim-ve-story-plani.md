@@ -75,7 +75,7 @@ Her gün için Reels, Story, gönderi ya da karusel ve o günün hazırlığı. 
 - **Story:**
   - Dünkü anketin sonucu
   - Soru kutusu: “Bugün hastanede duyduğun en absürt cümle?”
-- **Hazırlık:** Nöbet odası (emlak ilanı) çekimi. Ameliyathane jeneriği için gerçek ekip sayılarını topla.
+- **Hazırlık:** Nöbet odası (emlak ilanı) çekimi. Yemekhane videosu için olayı yaşayan hemşireyle konuş, izin al, gerçek saatleri ve sipariş tutarını not et.
 
 ### Cmt 24 Eki
 
@@ -83,14 +83,14 @@ Her gün için Reels, Story, gönderi ya da karusel ve o günün hazırlığı. 
 - **Story:**
   - Reels'i Story'de paylaş
   - Çağrı: “Nöbet odanın fotoğrafını DM'den gönder (kişi ve hasta bilgisi olmadan).”
-- **Hazırlık:** Ameliyatın jeneriği çekimi: lamba, boş oda, gece ekibi.
+- **Hazırlık:** Yemekhane videosu çekimi: ameliyathane kapısı, yemekhane açıkken ve kapanırken, kilitli kapı, sipariş ekranı.
 
 ### Paz 25 Eki
 
-- **Reels:** 11.45 · Görünmeyen Ekip B1 · Ameliyatın jeneriği
+- **Reels:** 11.45 · Kağıt Üzerinde B2 · Yemekhane kapandı
 - **Story:**
   - Reels'i Story'de paylaş
-  - Test: “Bir ameliyatta kaç kişi çalışır?” 4 seçenek
+  - Anket: “Vakadan ya da nöbetten çıktığında yemekhaneyi kapalı bulduğun oldu mu?” Evet / Hayır. Evet diyenlere soru kutusu: “Ne yaptın?”
   - Gelen nöbet odası fotoğrafları (izinli ve isimsiz)
 
 ### Pzt 26 Eki
@@ -100,7 +100,7 @@ Her gün için Reels, Story, gönderi ya da karusel ve o günün hazırlığı. 
   - Karuseli Story'de paylaş
   - Kaydırma çubuğu: “Bu hafta kaç gece nöbetin var?”
 - **Gönderi:** Karusel: Nöbet listesi değişirse 3 adım
-- **Hazırlık:** Takip tablosu. Siz Yazdınız videosu için 12 Ekim yorumlarını bas, isimleri kapat, panoya asıp çek.
+- **Hazırlık:** Takip tablosu. Siz Yazdınız videosu için 12 Ekim yorumlarını bas, isimleri kapat, panoya asıp çek. Yemekhane cevaplarını toplayın, geç çıkana yemek ayrılması için idareye yazılı başvuru hazırlanabilir.
 
 ### Sal 27 Eki
 
@@ -289,7 +289,7 @@ En az ekip: 1 kişi çekim (telefon ve tripod), 1 kişi kurgu (CapCut), 1 kişi 
 | Sal 20 Eki | 20.45 | Sendikal talep | **Sağlıkçılar Evi (hazır video)** | “Öğretmenevi var.” | 33 sn | Kursa, sınava, tayine giden sağlıkçının kalacak yeri yok. | Defterde boş kalan satır: Öğretmenevi, Polisevi, Orduevi var, Sağlıkçılar Evi yok. |
 | Per 22 Eki | 12.30 | Hak / mevzuat | **Amirin Bunu Diyebilir mi? B1:** Nöbet listesi son dakika değişti | Beyaz tahtadan bir isim düşüyor, kalanlar Tetris gibi boşluğa kayıyor | 35-40 sn | Bir kişi eksilince liste bir gün önceden değişiyor, aynı kişi üst üste gece yazılıyor. | Mıknatıslı nöbet çizelgesiyle stop-motion, ardından temsilciden 3 madde. |
 | Cmt 24 Eki | 20.45 | Mizahla anlatılan sorun | **Nöbet Odası Turu B1:** Emlak ilanı | “Bugün sizlere kaçırılmayacak bir fırsat gösteriyorum!” | 25-30 sn | Penceresiz, tek yataklı, banyosu koridorun sonunda olan nöbet odaları. | Emlakçı parodisi: 1+0, pencere 0, yatak 1, kullanan 3. |
-| Paz 25 Eki | 11.45 | Günlük hayat | **Görünmeyen Ekip B1:** Ameliyatın jeneriği | “Bu ameliyatta kaç kişi çalıştı? Tahmin et.” | 25-30 sn | Ameliyathane ve destek ekiplerinin emeği görünmüyor, gece kadrosu çok az. | Ameliyat lambası sönünce film jeneriği gibi akan unvanlar, ardından gece ekibinin sayısı. |
+| Paz 25 Eki | 11.45 | Günlük hayat · sessiz | **Kağıt Üzerinde B2:** Yemekhane kapandı | Ameliyathane kapısı kapanıyor, ekranda “11.00 · Vakaya girdi” | 25-30 sn | Yemekhane 12.30-13.30 arası açık. Vakadan 14.00'te çıkan hemşire dışarıdan kendi parasıyla yemek söylüyor. | Ameliyathane kapısı ile yemekhane arasında gidip gelen kurgu, saat yazıları, sonda kilitli kapı ve sipariş ekranı. |
 | Pzt 26 Eki | | Karusel | Nöbet listesi değişirse: 3 adım | | | | 22 Ekim Reels'inin kaydedilebilir özeti |
 | Sal 27 Eki | 20.45 | Sendikal / saha | **Siz Yazdınız, Biz Götürdük B1:** “Gece en az 2 hemşire” dosyası | “12 Ekim'de ‘yorumlara yaz’ dedik. Yazdınız.” | 30 sn | Serviste gece tek hemşire. | Yorumlar kâğıda basılıp panoya iğneleniyor, sonra hepsi bir dosyaya giriyor. *İl Sağlık'a yazı gerçekten verildiyse evrak numarası bulanıklaştırılarak gösterilsin. Verilmediyse “verdik” denmez, video yorumlarda en çok tekrar eden 3 cümle üzerine kurulur.* |
 | Per 29 Eki | | | **Reels yok · Cumhuriyet Bayramı** | | | | Story ve tek görsel |
@@ -299,7 +299,7 @@ En az ekip: 1 kişi çekim (telefon ve tripod), 1 kişi kurgu (CapCut), 1 kişi 
 | Pzt 2 Kas | | Karusel | Dilekçe nasıl verilir, evrak kaydı neden önemli | | | |  |
 | Sal 3 Kas | 20.45 | Hak / mevzuat | **Amirin Bunu Diyebilir mi? B2:** İzin damgası | Masa takviminde Ocak, üstüne kırmızı damga: PERSONEL YOK | 35 sn | Yıllık izin “personel yok” denerek kullandırılmıyor. | Stop-motion: her ayın izin günlerinin üstüne damga iniyor, yıl bitiyor. |
 | Per 5 Kas | 12.30 | Gerçek veri | **Gerçek Sayılar B1:** Bir nöbette kaç adım? | Yan yana üç çift ayakkabı, ekranda 0 · 0 · 0 | 30 sn | İş yükü görünmüyor, eksik personel adıma ve yorgunluğa dönüşüyor. | Üç meslekten üç gönüllünün adım sayarı, spor yayını gibi skor tablosu. |
-| Cmt 7 Kas | 12.30 | Günlük hayat | **Sen Söyledin B1:** DM'den gelen bir sorun sahnede | Ekranda anonim bir mesaj balonu beliriyor | 35 sn | Takipçinin yazdığı gerçek sorun. | Mesajın her cümlesi okundukça sahne canlanıyor. *Uygun bir DM gelmezse yerine Kağıt Üzerinde B2: Anestezi teknikeri, uzayan son vaka çekilir.* |
+| Cmt 7 Kas | 12.30 | Günlük hayat | **Sen Söyledin B1:** DM'den gelen bir sorun sahnede | Ekranda anonim bir mesaj balonu beliriyor | 35 sn | Takipçinin yazdığı gerçek sorun. | Mesajın her cümlesi okundukça sahne canlanıyor. *Uygun bir DM gelmezse yerine Kağıt Üzerinde B3: Anestezi teknikeri, uzayan son vaka çekilir.* |
 | Paz 8 Kas | 11.45 | Gerçek veri | **Gerçek Sayılar B2:** Bu ay kaç nöbet? | “Bu ay kaç nöbet tutuyorsun?” Yüz yok, sadece eller | 25 sn | Aylık nöbet sayıları çok yüksek ve eşit dağılmıyor. | Herkes nöbet sayısını parmaklarıyla gösteriyor, bir noktada iki el yetmiyor. |
 | Pzt 9 Kas | | Karusel | Yıllık izin: bilmen gereken 3 kural | | | | 3 Kasım Reels'inin kaydedilebilir özeti, hukuk birimi teyidiyle |
 | Sal 10 Kas | | | **Reels yok · 10 Kasım** | | | | Sade anma görseli ve Story |

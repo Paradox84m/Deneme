@@ -1,6 +1,6 @@
 # Sahne Fikirleri (24 Ekim - 13 Kasım 2026)
 
-İlk haftadan sonraki 13 video. Her birinin sorunu, yaratıcı fikri ve sahne akışı hazır. Tam senaryoyu çekimden bir hafta önce, o haftanın performansına bakarak çıkarırız.
+İlk haftalardan sonraki 12 video ve yedekler. Her birinin sorunu, yaratıcı fikri ve sahne akışı hazır. Tam senaryoyu çekimden bir hafta önce, o haftanın performansına bakarak çıkarırız.
 
 *Cmt 24 Eki · 20.45 · 25-30 sn*
 
@@ -23,7 +23,7 @@ Viral 7 · Paylaşım 8 · Yorum 7 · Sendika 6 · Zorluk 3
 
 *Not:* Gerçek bir odayı göstermek idareyle sorun çıkarabilir, benzer bir oda kurgulayın. Açıklamada takipçilerden nöbet odalarının fotoğrafını isteyin (kişi ve hasta bilgisi olmadan), Story'de “Sizin nöbet odalarınız” olarak paylaşın.
 
-*Paz 25 Eki · 11.45 · 25-30 sn*
+*Yedek · tarih yok*
 
 ## Görünmeyen Ekip B1 · Ameliyatın jeneriği
 
@@ -177,7 +177,7 @@ Viral 7 · Paylaşım 8 · Yorum 7 · Sendika 6 · Zorluk 4
 
 Viral 6 · Paylaşım 7 · Yorum 7 · Sendika 8 · Zorluk 4
 
-*Not:* Mesajı yazan kişiden izin alın, ayırt edici bilgileri değiştirin. Uygun bir DM gelmezse yerine Kağıt Üzerinde B2: Anestezi teknikeri, uzayan son vaka çekilir.
+*Not:* Mesajı yazan kişiden izin alın, ayırt edici bilgileri değiştirin. Uygun bir DM gelmezse yerine Kağıt Üzerinde B3: Anestezi teknikeri, uzayan son vaka çekilir.
 
 *Paz 8 Kas · 11.45 · 25 sn*
 
@@ -259,6 +259,6 @@ Viral 7 · Paylaşım 8 · Yorum 7 · Sendika 7 · Zorluk 6
 
 ## Yedekte bekleyen fikirler
 
-- **Kağıt Üzerinde B2 · Anestezi teknikeri:** Mesai 16.00'da bitiyor, son vaka 15.40'ta geliyor. Saat yazılarıyla sessiz anlatım. Sen Söyledin'in yedeği.
+- **Kağıt Üzerinde B3 · Anestezi teknikeri:** Mesai 16.00'da bitiyor, son vaka 15.40'ta geliyor. Saat yazılarıyla sessiz anlatım. Sen Söyledin'in yedeği.
 - **Görünmeyen Ekip B2 · Sterilizasyon:** Bir ameliyat setinin yıkamadan pakete yolculuğu ve bir nöbette tek kişinin elinden geçen set sayısı. Söz / Bugün'ün yedeği.
 - **Görev Tanımında Yok B2:** 17 Ekim Story'sine gelen cevaplarla, başka bir meslekte aynı format.
