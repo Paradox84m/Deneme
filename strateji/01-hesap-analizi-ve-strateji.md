@@ -97,7 +97,7 @@ Küçük ama düzeltilmesi gereken bir şey daha: 2023'te başka sendika temsilc
 - **"Yorum yaz, dosyaya ekliyoruz"** yaklaşımı. Sendikanın sahayı dinlediğini kanıtlayan en güçlü şey bu. Sonucunu da mutlaka video olarak göstermek lazım ("Siz yazdınız, biz götürdük").
 - **Somut, kişiye dokunan haklar** (5434/5510 videosu). 2.963 izlenme bu hesap için iyi. Mesleğe değil cebe dokunan konular paylaşılıyor.
 - **Ödeme gecikmesi gibi net talepler** ("parça parça maaş istemiyoruz"). Konu iyi, anlatım dramatize edilirse çok daha iyi gider.
-- **Tıbbi sekreter tombala** fikri. Hemşire dışı mesleklere açılmak doğru. Fikir iyi, aşağıda ikinci kartı için öneri var.
+- **Tıbbi sekreter tombala** fikri. Hemşire dışı mesleklere açılmak doğru, ama kart formatı ilk saatlerde %0,88 etkileşimde kaldı. İkinci kart takipçilerin cümleleriyle Story'de.
 
 ## 4. Bırakılacak ya da değiştirilecek içerikler
 
@@ -139,24 +139,24 @@ fedakârlık, haykırıyoruz, emek mücadelesi, sesimizi gür duyuracağız, omu
 
 ## 6. Reels serileri (12 seri)
 
-Her serinin kapakta sabit bir etiketi ve bölüm numarası olsun. İzleyici "Bölüm 4"ü görünce önceki bölümlere profilde bakar. Profilin ızgara görünümü de düzenli olur.
+14 Ekim'de çalışan sorunlarına göre yeniden düzenlendi. Her serinin bir sorun alanı ve kapakta sabit bir etiketi var. İzleyici “Bölüm 4”ü görünce önceki bölümlere profilde bakar.
 
-| # | Seri adı | Format | Meslekler | Bir sonraki bölümü bekleten şey |
-| --- | --- | --- | --- | --- |
-| 1 | **Bir Nöbette** | 30-45 sn dramatizasyon, üst üste binen talepler, tek cümle final | Dönüşümlü: hemşire, ATT, ebe, sekreter, anestezi, laborant | Final kartı: "Bir sonraki nöbet: Doğumhane" |
-| 2 | **Kağıt Üzerinde** | Sessiz anlatım, saat damgaları, son kare tek cümle | Herkes | Her bölüm farklı birim, aynı final |
-| 3 | **Görünmeyen Ekip** | 20-30 sn, "bu ameliyatta kaç kişi var tahmin et" | Ameliyathane, anestezi, sterilizasyon, temizlik, hasta bakıcı | Sayı finalde açıklanıyor, yorumda tahmin yarışı |
-| 4 | **Sen Söyledin** | Takipçi yorum/DM'lerini sahneye koymak | Gelen mesaja göre | "Senin cümlen de gelecek bölümde olabilir" |
-| 5 | **Amirin Bunu Diyebilir mi?** | 30-40 sn: kısa sahne + hukuki açıklama kartı | Herkes | Yorumdan gelen sorularla bir sonraki bölüm seçiliyor |
-| 6 | **Saat 03.00** | Mizah, gece nöbetinde beyin | Herkes | Seri hafif, paylaşmalık |
-| 7 | **Sadece Bir Şey Soracağım** | Mizah, hasta yakını sorularının çoğalması | Sekreter, hemşire, acil | Her bölüm farklı birim |
-| 8 | **Tombala** | Kart formatı, "en çok duyduğun cümleler" | Sekreter, ATT, ebe, hemşire, ASM | Takipçi cümleleriyle ikinci kart |
-| 9 | **Yol Hikâyesi** | Kastamonu'ya özel: ilçeye, nöbete giden yol, kış | İlçe hastanesi, ASM, 112 çalışanları | Her bölüm bir ilçe |
-| 10 | **Söz / Bugün** | Yetkili sendika ve idare için: verilen söz, bugünkü durum, çalışana etkisi | Konuya göre | Takvim gibi takip edilen "çözüldü mü?" kartı |
-| 11 | **Siz Yazdınız, Biz Götürdük** | Saha çalışmasının sonucu: dilekçe, görüşme, cevap | Konuya göre | "Cevap geldiğinde paylaşacağız" |
-| 12 | **İlk Hafta** | Yeni başlayan sağlıkçının ilk nöbeti, kimsenin söylemediği şeyler | Yeni atananlar | Genç çalışanı hesaba çeker, üyelik için en doğru kitle |
+| # | Seri | Format | Sorun | Meslekler | Bu ay |
+| --- | --- | --- | --- | --- | --- |
+| 1 | **Bir Nöbette** | 30-45 sn dramatizasyon. Üst üste binen talepler, tek cümle final. | Bir kişiye düşen iş yükü, eksik personel | ATT, ebe, 112 ekibi | B2 triyaj · B3 doğumhane · B4 112 |
+| 2 | **Kağıt Üzerinde** | Sessiz anlatım. Saat yazıları, son kare tek cümle. | Kâğıtta olan hakla sahada yaşanan arasındaki fark: mola, mesai | Yoğun bakım hemşiresi, anestezi teknikeri (yedek) | B1 soğuyan tepsi |
+| 3 | **Görev Tanımında Yok** | Kamera kıpırdamaz, kişi her dönüşte başka bir işin aksesuarıyla belirir. | Kadro eksikliğinde görev tanımı dışı işler | ASM aile sağlığı çalışanı, sonra takipçi cevaplarıyla diğerleri | B1 (B2 Story cevaplarından) |
+| 4 | **Amirin Bunu Diyebilir mi?** | Yaratıcı bir giriş, ardından temsilciden 3 maddelik hak açıklaması. | Son dakika nöbet listesi, kullandırılmayan izin | Herkes | B1 nöbet listesi · B2 izin |
+| 5 | **Görünmeyen Ekip** | Ekranda pek görünmeyen birimler. Bu ay film jeneriği formatında. | Ameliyathane ve destek birimlerinde gece kadrosu | Anestezi, ameliyathane, sterilizasyon | B1 (B2 yedekte) |
+| 6 | **İki Hayat** | Bölünmüş ekran: aynı saatte hastane ve ev. | Nöbet sayısı ve uzun nöbetlerin aile hayatına etkisi | Radyoloji teknikeri, sonra diğerleri | B1 |
+| 7 | **Gerçek Sayılar** | Uydurma yok, sahadan ölçülen sayı. Adım sayar, parmakla nöbet sayısı. | Görünmeyen iş yükü ve nöbet sayısı | Karışık | B1 adım · B2 nöbet sayısı |
+| 8 | **Yol Hikâyesi** | Kastamonu'ya özel. Navigasyon sesi ve kış yolu. | Geçici görevlendirme, ilçe yolu, ulaşım | İlçe hastanesi ve ASM çalışanları | B1 |
+| 9 | **Nöbet Odası Turu** | Emlak ilanı parodisi, mizahla anlatılan bir sorun. | Dinlenme ve nöbet odası koşulları | Herkes | B1, sonrası takipçi fotoğraflarıyla Story'de |
+| 10 | **Siz Yazdınız, Biz Götürdük** | Yorumlardan dilekçeye. Saha çalışmasının sonucu. | Gece tek hemşire | Servis hemşireleri | B1 |
+| 11 | **Sen Söyledin** | Anonim bir DM balonu sahneye dönüşüyor. | Takipçinin yazdığı gerçek sorun | Gelen mesaja göre | B1 (DM yoksa yedek video) |
+| 12 | **Söz / Bugün** | Takvim yaprağı sayaç: verilen söz, bugünkü durum, çalışana etkisi. | Tutulmayan sözler | Konuya göre | B1 (belge varsa) |
 
-**Seri kullanım kuralı:** Bir seri arka arkaya iki kez gelmez. "Bir Nöbette" iki haftada bir çıkar ki beklenen şey olsun.
+**Seri kullanım kuralı:** Bir seri arka arkaya iki kez gelmez. “Bir Nöbette” iki haftada bir çıkar ki beklenen şey olsun. Tombala ikinci kartıyla Story'ye taşındı.
 
 ---
 
