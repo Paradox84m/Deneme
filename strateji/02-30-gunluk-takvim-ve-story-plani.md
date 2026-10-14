@@ -28,7 +28,7 @@ Haftada 4 Reels, her gün Story, haftada 1 karusel. Saatler Türkiye saati.
 | Per 12 Kas | 12.30 | Mizah | **İzin günümde hastaneden arandığımda** | Telefon ekranında "Servis" yazıyor, yüz donuyor | 10-12 sn | Paylaşım, hafif ton |
 | Cum 13 Kas | 20.45 | Günlük hayat | **Bir Nöbette B4:** 112 ekibi, karlı yolda vaka | "Vaka 22 km uzakta. Yol kapalı değil. Ama..." | 40 sn | 112 çalışanları, Kastamonu kışı |
 
-**Dağılım (17 Reels):** Günlük hayat 7 (%41) · Mizah 4 (%24) · Hak/mevzuat 2 + 4 karusel (%15 civarı) · Sendikal 3 (%18) · Deneysel 1 (+ "Sen Söyledin")
+**Dağılım (18 Reels):** Günlük hayat 7 (%39) · Mizah 4 (%22) · Sendikal 3 (%17) · Hak/mevzuat 2 (%11, haftalık karuselle birlikte %15 civarı) · Kastamonu özel 1 ve deneysel 1 (%11)
 
 **Notlar:**
 - **Söz / Bugün (11 Kas):** Elimizde tarihli, belgeli bir söz (basın açıklaması, toplantı tutanağı, resmi yazı) yoksa bu videoyu çekmeyin. Yerine "Görünmeyen Ekip B2: Sterilizasyon ünitesi" girer.
@@ -40,8 +40,8 @@ Haftada 4 Reels, her gün Story, haftada 1 karusel. Saatler Türkiye saati.
 
 | Tarih | Konu |
 | --- | --- |
-| Pzt 19 Eki | Nöbet listesi değişirse: 3 adım (Reels'in kaydedilebilir özeti) |
-| Pzt 26 Eki | 5434 mü 5510 mu? Kendi durumunu 30 saniyede öğren |
+| Pzt 19 Eki | 5434 mü 5510 mu? Kendi durumunu 30 saniyede öğren (10 Ekim videosunun devamı) |
+| Pzt 26 Eki | Nöbet listesi değişirse: 3 adım (22 Ekim Reels'inin kaydedilebilir özeti) |
 | Pzt 2 Kas | Dilekçe nasıl verilir, evrak kaydı neden önemli |
 | Pzt 9 Kas | Şiddete uğrarsan ilk 24 saat: Beyaz Kod, tutanak, rapor (hukuk teyidiyle) |
 

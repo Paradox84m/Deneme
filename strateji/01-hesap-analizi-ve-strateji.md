@@ -41,7 +41,7 @@ Neden tuttu:
 1. **İlk saniye bir durum, slogan değil.** Boş koridor, kameraya doğru gelen tek hemşire. İzleyici ne olduğunu anlamak için kalıyor.
 2. **Ses üst üste biniyor.** "Serum bitti", "ağrısı arttı", "hocam acil gelir misiniz", "kızım biraz su". Hemşire bunları duyunca kendi nöbetini hatırlıyor. Hemşire olmayan da bunalıyor.
 3. **Final tek cümle ve haklı:** "Ben hanginize yetişeyim?" Bunu söyleyen kişi sendika değil, hemşire.
-4. **Etiketlenecek biri var.** Herkesin servisinde böyle bir arkadaşı var. Yorumların büyük kısmı etiketleme ve "aynen bizim servis" türü.
+4. **Etiketlenecek biri var.** Herkesin servisinde böyle bir arkadaşı var, video "bak, bu sensin" diye etiketlemeye çok uygun. Yorum metinleri ChatPlace'ten gelmiyor, bunu yorumlara bakarak teyit edin.
 
 Zayıf yanı: Açıklama metni klasik sendika dili ("haykırıyoruz", "çalışan onuru"). Video sağlam olduğu için kurtardı, ama metin kendi başına kimseyi tutmazdı.
 
@@ -54,40 +54,40 @@ Zayıf yanı: Açıklama metni klasik sendika dili ("haykırıyoruz", "çalışa
 | 12 Ekim | "Sesinizi İl Sağlık'a taşıyoruz" (gece en az 2 hemşire) | 6.799 |
 | 13 Ekim | Tıbbi sekreter tombala | 793 (ilk gün) |
 
-12 Ekim videosu viral videonun arkasından geldiği için iyi bir devam hamlesiydi ve "yorum yaz, dosyaya ekliyoruz" çağrısı 12 yorum getirdi. Ama izlenme 25 kat düştü. Sebep: Video bir dramatizasyondan sonra kurumsal rapor diline geçti. İnsanlar hikâyeye gelmişti, rapor okumaya değil.
+12 Ekim videosu viral videonun arkasından geldiği için iyi bir devam hamlesiydi ve "yorum yaz, dosyaya ekliyoruz" çağrısı 12 yorum getirdi. Ama izlenme 25 kat düştü. Muhtemel sebep: Video bir dramatizasyondan sonra kurumsal rapor diline geçti. İnsanlar hikâyeye gelmişti, rapor okumaya değil.
 
 ### İçerik türlerine göre performans (93 video)
 
 | Tür | Medyan izlenme |
 | --- | --- |
 | Açıklama metni olmayan videolar (48 adet) | 403 |
-| Bayram / anma kutlamaları | 520 |
-| Toplantı, ziyaret, başkan videoları | 950 (2023'teki bir ziyaret 11 bin aldı, gerisi düşük) |
-| Eylül 2026 sonrası, sorun anlatan videolar | 1.110 |
+| Bayram ve özel gün kutlamaları (7 adet) | 520 |
+| Toplantı, ziyaret, başkan videoları (8 adet) | 1.192 (2023'teki bir ziyaret 11 bin, Tosya buluşması 3 bin aldı, gerisi 500-1.600 arası) |
+| Eylül 2026 sonrası sorun anlatan videolar (4 adet, viral video hariç) | 2.358 |
 | Sağlık çalışanının gününü dramatize eden video | 169.748 |
 
-Kısaca: **Sorun anlatan içerik, kurumsal içeriğin 2-3 katı izleniyor. Sorunu sahneye koyan içerik ise yüzlerce katı.**
+Kısaca: **Sorun anlatan içerik, toplantı videolarının yaklaşık 2 katı, bayram videolarının 4 katından fazla izleniyor. Sorunu sahneye koyan video ise hepsinin 70 katından fazla izlendi.**
 
 ---
 
 ## 2. En büyük 5 hata
 
 **1. Hesabın yarısı açıklamasız ve bağlamsız.**
-93 videonun 48'inde tek kelime açıklama yok ya da sadece ilçe etiketleri var. İzleyici "bu ne, bana ne" sorusuna cevap bulamıyor. Algoritma da videoyu kime göstereceğini bilmiyor.
+93 videonun 48'inde tek kelime açıklama yok, 8'inde de sadece etiket var. İzleyici "bu ne, bana ne" sorusuna cevap bulamıyor. Algoritma da videoyu kime göstereceğini bilmiyor.
 
-**2. İlk 3 saniye sendikayla başlıyor, sağlıkçıyla değil.**
-"3 yılda 125 bin üye" (252 izlenme), toplantı salonu görüntüleri, logo açılışları. Kaydıran kişi için bu bir reklam. Sağlıkçı kendini görmeden 1 saniyede geçiyor.
+**2. Konu sendikanın kendisi olunca izleyici geçiyor.**
+"3 yılda 125 bin üye" 252, "Neden Genç Sağlık Sendikası?" 375 izlenme aldı. Kurul ve ziyaret videolarının medyanı 1.192. Kaydıran kişi için bunlar reklam gibi duruyor, sağlıkçı kendini görmeden geçiyor.
 
 **3. Viral videodan sonra seri kurulmadı.**
 169 bin izlenmeden sonra izleyici "bir sonraki" bekliyordu. 12 Ekim'de rapor, 13 Ekim'de mizah geldi. İkisi de iyi fikir ama izleyiciye "bu serinin devamı" denmedi. Kapakta seri adı, bölüm numarası yok. 1.289 takipçi bu ivmeyle 3-4 bine çıkabilirdi.
 
 **4. Aylarca sessizlik, sonra arka arkaya paylaşım.**
-Ocak - Eylül 2026 arası 8 ay neredeyse hiç Reels yok. Ekimde bir haftada 5 Reels. Algoritma düzensiz hesabı cezalandırıyor, takipçi de unutuyor. Haftada 4 düzenli video, ayda bir 5 videolu patlamadan çok daha değerli.
+Ocak - Eylül 2026 arası 8 ay neredeyse hiç Reels yok. Ekimde bir haftada 5 Reels. Düzensiz paylaşan hesabı takipçi unutuyor, algoritma da kime göstereceğini öğrenemiyor. Haftada 4 düzenli video, ayda bir 5 videolu patlamadan çok daha değerli.
 
 **5. Dil, sahadaki dil değil.**
 "Haykırıyoruz", "omuz omuza daha güçlü yarınlara", "emek mücadelemiz", "#BizBaşarırsakHerkesKazanacak". Bunları koridorda kimse söylemiyor. En çok izlenen video ise "Ben hanginize yetişeyim?" diye bitiyor. Fark bu.
 
-Küçük ama düzeltilmesi gereken bir şey daha: 2023'te başka sendika temsilcilerini hedef alan "sarı sendika", "skandal" içerikleri var. Bunlar düşük izlenmiş ve hesabın bugünkü tonuyla uyuşmuyor. Arşivlenmesini öneririm.
+Küçük ama düzeltilmesi gereken bir şey daha: 2023'te başka sendika temsilcilerini hedef alan "sarı sendika", "skandal" içerikleri var. Bu videolar 220 ile 780 arasında izlenmiş ve hesabın bugünkü tonuyla uyuşmuyor. Arşivlenmesini öneririm.
 
 ---
 
