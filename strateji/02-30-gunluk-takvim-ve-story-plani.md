@@ -1,10 +1,249 @@
-# 30 Günlük Takvim ve Story Planı (15 Ekim - 13 Kasım 2026)
+# Günlük Program ve Takvim (15 Ekim - 13 Kasım 2026)
 
 14 Ekim'de güncellendi: her Reels doğrudan bir çalışan sorununu anlatıyor. Ekip için paylaşılan sayfa: https://claude.ai/artifact/LwJa7iCuatyo4d5Yi41Qtj
 
-## Yarından itibaren
+## Günlük program
 
-Plan baştan düzenlendi. Takvimdeki 18 Reels'in her biri tek bir çalışan sorununu ele alıyor ve her birinin kendine ait bir sahne fikri var.
+Her gün için Reels, Story, gönderi ya da karusel ve o günün hazırlığı. Story'de programdaki karelere ek olarak servisten 1-2 kare paylaşılabilir. Reels olan günlerde Reels'i paylaştıktan hemen sonra Story'de de paylaşın.
+
+### Per 15 Eki
+
+- **Reels:** 20.45 · Kağıt Üzerinde B1 · Soğuyan tepsi
+- **Story:**
+  - 12.30 · Anket: “Bugün oturup yemek yiyebildin mi?” Evet / Hayır
+  - 20.50 · Reels'i Story'de paylaş
+- **Hazırlık:** Video hazır (Virale). Paylaşmadan önce saat tik-takı sesi ekle, paylaşırken yapay zekâ etiketini aç.
+
+### Cum 16 Eki
+
+- **Reels:** yok
+- **Story:**
+  - Dünkü anketin sonucu: “Yemek yiyemeyenler: %__”
+  - Anket: “Görev tanımında olmayan en çok hangisini yapıyorsun?” Sekreterlik / Temizlik
+- **Hazırlık:** 17.30 ASM'de “Bir kişi beş iş” çekimi (45 dakika), akşam kurgu. Cumartesi çekimi için oyuncuları ve mekânı teyit et.
+
+### Cmt 17 Eki
+
+- **Reels:** 12.30 · Görev Tanımında Yok B1 · Bir kişi beş iş (ASM)
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Soru kutusu: “Görev tanımında olmayan, en çok yaptığın iş ne?”
+- **Hazırlık:** 14.00-16.30 toplu çekim: Bir Nöbette B2 (triyaj) ve nöbet listesi stop-motion'u.
+
+### Paz 18 Eki
+
+- **Reels:** 11.45 · Bir Nöbette B2 · Gece acil triyajı, 1 ATT
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Haftanın özeti: yemek anketinin sonucu ve görev tanımı cevaplarından 3 örnek (isimsiz)
+
+### Pzt 19 Eki
+
+- **Reels:** yok
+- **Story:**
+  - Karuseli Story'de paylaş
+  - Kaydırma çubuğu: “Bu ay kaç nöbet tutacaksın?”
+- **Gönderi:** Karusel: 5434 mü 5510 mu? Kendi durumunu 30 saniyede öğren
+- **Hazırlık:** Takip tablosu: ilk üç videonun sayılarını gir.
+
+### Sal 20 Eki
+
+- **Reels:** 20.45 · Sağlıkçılar Evi (hazır video)
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Anket: “Kursa ya da sınava gittiğin şehirde kalacak yer bulabildin mi?” Evet / Hayır
+- **Hazırlık:** Sağlıkçılar Evi videosuna CapCut'ta ses ekle.
+
+### Çar 21 Eki
+
+- **Reels:** yok
+- **Story:**
+  - Meslek tahmini: bulanık bir masa fotoğrafı, “Bu kimin masası?” 4 seçenekli test
+  - Duyuru: “Yarın 12.30: Nöbet listen bir gün önce değişirse ne yapmalısın?”
+- **Hazırlık:** Temsilci konuşmasını çek (nöbet listesi videosu), metni hukuk birimine okut.
+
+### Per 22 Eki
+
+- **Reels:** 12.30 · Amirin Bunu Diyebilir mi? B1 · Nöbet listesi son dakika değişti
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Anket: “Nöbet listen hiç bir gün önce değişti mi?” Evet / Hayır. Evet diyenlere soru kutusu: “Ne oldu?”
+
+### Cum 23 Eki
+
+- **Reels:** yok
+- **Story:**
+  - Dünkü anketin sonucu
+  - Soru kutusu: “Bugün hastanede duyduğun en absürt cümle?”
+- **Hazırlık:** Nöbet odası (emlak ilanı) çekimi. Ameliyathane jeneriği için gerçek ekip sayılarını topla.
+
+### Cmt 24 Eki
+
+- **Reels:** 20.45 · Nöbet Odası Turu B1 · Emlak ilanı
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Çağrı: “Nöbet odanın fotoğrafını DM'den gönder (kişi ve hasta bilgisi olmadan).”
+- **Hazırlık:** Ameliyatın jeneriği çekimi: lamba, boş oda, gece ekibi.
+
+### Paz 25 Eki
+
+- **Reels:** 11.45 · Görünmeyen Ekip B1 · Ameliyatın jeneriği
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Test: “Bir ameliyatta kaç kişi çalışır?” 4 seçenek
+  - Gelen nöbet odası fotoğrafları (izinli ve isimsiz)
+
+### Pzt 26 Eki
+
+- **Reels:** yok
+- **Story:**
+  - Karuseli Story'de paylaş
+  - Kaydırma çubuğu: “Bu hafta kaç gece nöbetin var?”
+- **Gönderi:** Karusel: Nöbet listesi değişirse 3 adım
+- **Hazırlık:** Takip tablosu. Siz Yazdınız videosu için 12 Ekim yorumlarını bas, isimleri kapat, panoya asıp çek.
+
+### Sal 27 Eki
+
+- **Reels:** 20.45 · Siz Yazdınız, Biz Götürdük B1 · “Gece en az 2 hemşire” dosyası
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Anket: “Senin serviste gece kaç hemşire var?” 1 / 2 ve üstü
+- **Hazırlık:** Yol Hikâyesi için bu hafta bir sabah ilçe yolunu çek (yolcu koltuğundan).
+
+### Çar 28 Eki
+
+- **Reels:** yok
+- **Story:**
+  - Meslek tahmini
+  - Duyuru: “Yarın Cumhuriyet Bayramı. Nöbette olanlar, yazın.”
+- **Hazırlık:** İki Hayat çekimi: hastane tarafı (radyoloji teknikeri).
+
+### Per 29 Eki
+
+- **Reels:** yok
+- **Story:**
+  - Bayram görseli
+  - Anket: “Bayramda nöbette misin?” Evet / Hayır
+- **Gönderi:** Tek görsel: Cumhuriyet Bayramı (sade)
+- **Hazırlık:** İki Hayat çekimi: ev tarafı (velinin izniyle, çocuğun yüzü görünmeden).
+
+### Cum 30 Eki
+
+- **Reels:** 20.45 · İki Hayat B1 · Aynı saat, iki ev
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Kaydırma çubuğu: “Bu ay kaç gecen evde geçmedi?”
+- **Hazırlık:** Doğumhane çekimi: üç kapılı koridor, sesler ayrıca kaydedilir.
+
+### Cmt 31 Eki
+
+- **Reels:** 12.30 · Bir Nöbette B3 · Doğumhane, 1 ebe, 3 doğum
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Tombala ikinci kart: takipçilerin gönderdiği cümlelerle
+
+### Paz 1 Kas
+
+- **Reels:** 11.45 · Yol Hikâyesi B1 · Rotanız yeniden hesaplanıyor
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Anket: “Bu yıl geçici görevlendirildin mi?” Evet / Hayır
+  - Haftanın özeti
+
+### Pzt 2 Kas
+
+- **Reels:** yok
+- **Story:**
+  - Karuseli Story'de paylaş
+  - Kaydırma çubuğu: “Kasım'da kaç nöbet yazıldı?”
+- **Gönderi:** Karusel: Dilekçe nasıl verilir, evrak kaydı neden önemli
+- **Hazırlık:** Takip tablosu ve ilk 10 videonun değerlendirmesi (Devam / Geliştir / Bırak). İzin damgası stop-motion'u ve temsilci konuşması, hukuk teyidi. Sen Söyledin için bir DM seç, yazandan izin al.
+
+### Sal 3 Kas
+
+- **Reels:** 20.45 · Amirin Bunu Diyebilir mi? B2 · İzin damgası
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Anket: “Bu yıl iznini istediğin zaman kullanabildin mi?” Evet / Hayır
+- **Hazırlık:** Adım sayar: üç gönüllü (hemşire, ATT, tekniker) bu nöbette adım sayarı açık tutsun.
+
+### Çar 4 Kas
+
+- **Reels:** yok
+- **Story:**
+  - Dünkü izin anketinin sonucu
+  - Meslek tahmini
+- **Hazırlık:** Adım sayar videosunun kurgusu, ekran görüntüleriyle.
+
+### Per 5 Kas
+
+- **Reels:** 12.30 · Gerçek Sayılar B1 · Bir nöbette kaç adım?
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Soru kutusu: “Bir nöbette kaç adım atıyorsun? Ölçtüysen yaz.”
+
+### Cum 6 Kas
+
+- **Reels:** yok
+- **Story:**
+  - Soru kutusu: “Bugün hastanede duyduğun en absürt cümle?”
+  - Çağrı: “Yaşadığın bir sorunu DM'den yaz, isim vermeden videoya dönüştürelim.”
+- **Hazırlık:** Sen Söyledin çekimi (ya da yedek: anestezi videosu). Koridorda “Bu ay kaç nöbet?” el çekimleri, herkesin izniyle.
+
+### Cmt 7 Kas
+
+- **Reels:** 12.30 · Sen Söyledin B1 · DM'den gelen bir sorun sahnede
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Soru kutusu: “Sen de yaz, isim vermeden.”
+
+### Paz 8 Kas
+
+- **Reels:** 11.45 · Gerçek Sayılar B2 · Bu ay kaç nöbet?
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Kaydırma çubuğu: “Bu ay kaç nöbet tutuyorsun?”
+  - Haftanın özeti
+
+### Pzt 9 Kas
+
+- **Reels:** yok
+- **Story:**
+  - Karuseli Story'de paylaş
+- **Gönderi:** Karusel: Yıllık izin, bilmen gereken 3 kural
+- **Hazırlık:** Takip tablosu. Söz / Bugün için belgeyi hazırla (yoksa yedek: sterilizasyon videosu). 112 çekimi: park halindeki ambulans.
+
+### Sal 10 Kas
+
+- **Reels:** yok
+- **Story:**
+  - Anma görseli
+- **Gönderi:** Tek görsel: 10 Kasım anma (sade)
+- **Hazırlık:** Beyaz Kod videosu çekimi, adımları hukuk birimine okut.
+
+### Çar 11 Kas
+
+- **Reels:** 20.45 · Söz / Bugün B1 · Takvim yaprağı
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Anket: “Sizce bu sorun çözüldü mü?” Evet / Hayır
+
+### Per 12 Kas
+
+- **Reels:** 12.30 · Beyaz Kod: Sonra ne oluyor?
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Soru kutusu: “Beyaz Kod verdikten sonra yanında kim vardı?” (isim ve kurum yazmayın)
+
+### Cum 13 Kas
+
+- **Reels:** 20.45 · Bir Nöbette B4 · 112 ekibi, karlı yolda vaka
+- **Story:**
+  - Reels'i Story'de paylaş
+  - Soru kutusu: “Bölgende bir vakaya en uzun kaç dakikada gittin?”
+- **Hazırlık:** Sonraki 30 günün planı için Claude'a “Bu haftanın Reelslerini hazırla” deyin.
+
+## Bu planda ne değişti
 
 ### Tombala ne aldı
 
@@ -16,43 +255,7 @@ Fikir iyi ama kart formatı zayıf kaldı. Açıklamada söz verdiğimiz ikinci 
 
 - Konusu doğrudan bir sorun olmayan videolar çıktı: “Saat 03.00 beynim”, “İzin günümde arandığımda”, “İlk hafta”, “Sadece bir şey soracağım”.
 - Yerlerine yemek molası, görev tanımı dışı iş, nöbet odası, aile hayatı, nöbet sayısı, izin ve şiddet sonrası süreç girdi.
-- Takvimde her videonun bir “Sorun” satırı var. Çekmeden önce o satırı okuyun, video o sorundan sapmasın.
-
-### İlk hafta, gün gün
-
-1. **Bu akşam Çar 14 Eki:**
-
-   **Tombalayı Story'de paylaşın,** altına soru kutusu koyun: “Listede olmayan bir cümle var mı?” Cevaplar ikinci karta gidecek. Tombala yorumlarına cevap verin.
-
-   Yarınki çekim için yoğun bakımdan bir gönüllü, tripod ve şarj kablosu ayarlayın.
-2. **Perşembe 15 Eki:**
-
-   **Gündüz çekim, 20.45 paylaşım:** Kağıt Üzerinde B1 · Soğuyan tepsi. Telefon dinlenme odasındaki masada timelapse modunda kalsın, akşam kurgulanıp paylaşılsın.
-
-   20.50 Story anketi: “Bugün oturup yemek yiyebildin mi?”
-3. **Cuma 16 Eki:**
-
-   **17.30 ASM'de çekim (45 dakika):** Görev Tanımında Yok B1 · Bir kişi beş iş. Akşam kurgu.
-
-   Cumartesi çekimi için oyuncuları ve mekânı teyit edin.
-4. **Cumartesi 17 Eki:**
-
-   **12.30 paylaşım:** Bir kişi beş iş. **14.00-16.30 toplu çekim:** Bir Nöbette B2 (triyaj, 2 saat) ve nöbet listesi stop-motion'u (30 dakika).
-5. **Pazar 18 Eki:**
-
-   **11.45 paylaşım:** Bir Nöbette B2 · Gece acil triyajı.
-6. **Pazartesi 19 Eki:**
-
-   **Karusel:** 5434 mü 5510 mu? **Takip tablosu:** ilk üç videonun sayılarını girin.
-7. **Salı 20 Eki:**
-
-   **20.45 paylaşım:** Sağlıkçılar Evi. Sesi CapCut'ta ekleyin.
-8. **Çarşamba 21 Eki:**
-
-   **Temsilci konuşmasını çekin** (nöbet listesi videosunun ikinci yarısı) ve metni hukuk birimine okutun.
-9. **Perşembe 22 Eki:**
-
-   **12.30 paylaşım:** Amirin Bunu Diyebilir mi? B1 · Nöbet listesi.
+- Reels takviminde her videonun bir “Sorun” satırı var. Çekmeden önce o satırı okuyun, video o sorundan sapmasın.
 
 ### Her hafta aynı ritim
 
@@ -72,9 +275,10 @@ En az ekip: 1 kişi çekim (telefon ve tripod), 1 kişi kurgu (CapCut), 1 kişi 
 - Altyazı var. Kapakta seri adı ve bölüm numarası var.
 - Kadrajda hasta, dosya, ekran ya da gerçek isim yok.
 - Açıklama bir soruyla bitiyor, son satırı “Bu bir dramatizasyondur.”
+- Yapay zekâyla üretilen videolarda Instagram'ın yapay zekâ etiketi açık.
 - Hak ve mevzuat videolarını hukuk birimi okudu.
 
-## Takvim
+## Reels takvimi
 
 | Gün | Saat | Tür | Video | Hook | Süre | Sorun | Sahne fikri |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -114,45 +318,24 @@ En az ekip: 1 kişi çekim (telefon ve tripod), 1 kişi kurgu (CapCut), 1 kişi 
 
 Mizah payını bilerek düşürdüm. Kalan iki mizahi video da bir sorunu anlatıyor: görev tanımı dışı iş ve nöbet odası.
 
-## Kurallar
+### Kurallar
 
 - Her video tek bir sorun anlatır. Birden fazla sorunu aynı videoya sıkıştırmayın.
 - Bir video ilk 24 saatte 20 bini geçerse sıradaki planı bozup **48 saat içinde devamını** çıkarın. 11 Ekim'de kaçan fırsat buydu.
 - Mevzuat içeren her karusel ve Reels yayından önce hukuk birimine gösterilsin.
 - 29 Ekim ve 10 Kasım'da Reels yok. Story ve sade bir görsel yeterli.
 
-## Story planı
+## Story kuralları
 
-Her gün en az bir kare etkileşim aracı olsun, en az bir kare de Reels'ten bağımsız içerik. Story cevapları bir sonraki Reels'in malzemesi.
+Her günün Story'leri Günlük program bölümünde tek tek yazıyor. Burada genel kurallar ve Story cevaplarının Reels'e nasıl döneceği var.
 
-### Bu ay özel
+### Kurallar
 
-- **14 Eki · Tombala:** Reels'i Story'de paylaşın, soru kutusu: “Listede olmayan bir cümle var mı?”
-- **15 Eki · Yemek molası:** Anket: “Bugün oturup yemek yiyebildin mi?” Evet / Hayır. Sonucu ertesi gün paylaşın.
-- **17 Eki · Görev tanımı:** Soru kutusu: “Görev tanımında olmayan, en çok yaptığın iş ne?” Cevaplar Görev Tanımında Yok B2'ye.
-- **24 Eki'den sonra · Sizin nöbet odalarınız:** Takipçilerden gelen nöbet odası fotoğrafları, kişi ve hasta bilgisi olmadan, isimsiz.
-- **31 Eki · Tombala, ikinci kart:** Takipçilerin gönderdiği cümlelerle kart. Görenler kendi tombalasını işaretleyip arkadaşını etiketlesin.
-- **8 Kas · Kaç nöbet?:** Kaydırma çubuğu: “Bu ay kaç nöbet tutuyorsun?” Gerçek Sayılar B2 ile aynı gün.
-
-### Haftalık ritim
-
-- **Pazartesi · Bu hafta kaç nöbet?:** Kaydırma çubuğu: “Bu ay kaç nöbet tutacaksın?” Sonuçları ertesi gün paylaşın.
-- **Salı · Başınıza geldi mi?:** “Nöbet listen hiç bir gün önce değişti mi?” Evet / Hayır. Evet diyenlere soru kutusu: “Ne oldu?”
-- **Çarşamba · Meslek tahmini:** Bulanık bir el ya da ekipman fotoğrafı. “Bu kimin masası?” 4 seçenekli test: laborant, sekreter, anestezi, ebe.
-- **Perşembe · Bugün hastanede...:** Soru kutusu: “Bugün hastanede duyduğun en absürt cümle?” En iyileri cuma Story'de, isimsiz.
-- **Cuma · Sizce?:** İki seçenekli oy: “Gece serviste en az 2 hemşire mi, yoksa ek ödeme mi?” Cevabı tek olmayan, tartışma açan sorular.
-- **Cumartesi · Nöbet hikâyesi:** Takipçiden gelen kısa bir hikâye, ekranda yazı olarak ve isimsiz. Altına “Sen de yaz” soru kutusu.
-- **Pazar · Haftanın özeti:** Hafta boyunca gelen cevaplardan 3 rakam. Örnek kalıp: “Ankete katılanların %\_\_'i bu ay 8+ nöbet tutuyor.” Hem içerik hem İl Sağlık dosyası.
-
-### Story'den Reels'e
-
-Her Pazar akşamı cevapları gözden geçirip şunu sorun: Bu cevaplardan hangisini sahneye koyabiliriz?
-
-- Görev tanımı cevaplarıGörev Tanımında Yok B2
-- Cumartesi nöbet hikâyeleri ve DM'lerSen Söyledin
-- Salı “başınıza geldi mi” cevaplarıAmirin Bunu Diyebilir mi?
-- Nöbet sayıları ve Pazar rakamlarıGerçek Sayılar, İl Sağlık dosyası
-- Perşembe “en absürt cümle” cevaplarıTombala ikinci kart (Story)
+- Her gün 3-5 kare. Programdaki kareleri atlamayın, üstüne servisten 1-2 kare eklenebilir.
+- En az bir kare etkileşim aracı olsun: anket, soru kutusu, kaydırma çubuğu ya da test.
+- Reels olan günlerde Reels'i paylaştıktan hemen sonra Story'de de paylaşın.
+- Anket sonuçlarını ertesi gün paylaşın, insanlar cevabının işe yaradığını görsün.
+- Takipçi cevaplarını isimsiz paylaşın. Kişi, kurum ya da hasta bilgisi görünmesin.
 
 ### Story'de olsun, Reels'te olmasın
 
@@ -160,3 +343,13 @@ Her Pazar akşamı cevapları gözden geçirip şunu sorun: Bu cevaplardan hangi
 - Genel merkez açıklamalarının paylaşımı
 - Toplantı, ziyaret, kurul fotoğrafları
 - Yeni üyeye hoş geldin. Yüzünü göstermek istemeyen üye için sadece isim baş harfi ve birim.
+
+### Story'den Reels'e
+
+Her Pazar akşamı cevapları gözden geçirip şunu sorun: Bu cevaplardan hangisini sahneye koyabiliriz?
+
+- Görev tanımı cevaplarıGörev Tanımında Yok B2
+- DM'ler ve nöbet hikâyeleriSen Söyledin
+- Nöbet listesi ve izin anketleriAmirin Bunu Diyebilir mi?
+- Nöbet sayıları ve anket rakamlarıGerçek Sayılar, İl Sağlık dosyası
+- “En absürt cümle” cevaplarıTombala ikinci kart (Story)
