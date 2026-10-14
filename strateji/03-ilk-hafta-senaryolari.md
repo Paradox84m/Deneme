@@ -21,6 +21,16 @@ Beş video: iki yeni senaryo, hazır olan triyaj senaryosu ve Sağlıkçılar Ev
 
 **Amaç:** Her sağlıkçının “bugün ben de yiyemedim” deyip videoyu paylaşması.
 
+### Virale ile üretildi
+
+Bu videonun görüntüleri 14 Ekim'de Virale ile üretildi: 5 sahne, 22 saniye, 480p. Saat yazıları videonun üstünde.
+
+Taslak videoyu indir · Sıcak tepsi karesi · Soğuk tepsi karesi
+
+- Instagram'da paylaşırken gelişmiş ayarlardan yapay zekâ etiketini açın. Açıklamanın son satırı da bunu söylüyor.
+- Videoda ses yok. CapCut'ta ya da Instagram'ın ses kütüphanesinden hafif bir saat tik-takı ekleyin, müzik koymayın.
+- 480p telefonda biraz yumuşak görünebilir. Beğenmezseniz aynı senaryo telefonla 1 saatte çekilir, aşağıdaki çekim planı hâlâ geçerli.
+
 ### İlk 3 saniye için hook seçenekleri
 
 1. **Görsel / saat (önerilen):** Buharı tüten çorba, ekranda “12.00 · Öğle yemeği geldi”.
@@ -93,7 +103,7 @@ Mola kâğıt üzerinde var. Serviste yerine bakacak ikinci kişi yoksa o mola k
 
 Sen bugün oturup yemek yiyebildin mi? Evet ya da hayır, yorumlara yaz.
 
-Bu bir dramatizasyondur. Yaşayan herkes bilir.
+Bu bir dramatizasyondur, görüntüler yapay zekâyla üretildi. Yaşayan herkes bilir.
 #Kastamonu #YoğunBakım #Hemşire #SağlıkÇalışanları #Nöbet
 ```
 
