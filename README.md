@@ -44,3 +44,41 @@ Sahne türleri: `list`, `listQuestion`, `night`, `cards`, `finale`.
 Instagram güvenli alanı `safeArea` içinde tanımlı (x 90-990, y 250-1480).
 
 Remotion kendi Chrome'unu indirir. Başka bir tarayıcı kullanmak istersen: `REMOTION_BROWSER=/yol/chrome npm run render`
+
+---
+
+# Bir kapı daha… (Kastamonu Şubesi açılışı)
+
+Aynı projede ikinci video. Ayarları `kapi.json`, kodu `src/kapi/` altında. Prodüksiyon planı: `docs/bir-kapi-daha-produksiyon-plani.md`.
+
+```bash
+npm run render:kapi
+```
+
+| Dosya | İçerik |
+| --- | --- |
+| `out/bir-kapi-daha.mp4` | 30 sn, 1080x1920, 24 fps, yazılı, ses kanalı yok |
+| `out/bir-kapi-daha-yazisiz.mp4` | Aynı görüntü, hikâye ve davet yazıları yok (logo var) |
+| `out/bir-kapi-daha-kapak.png` | Reels kapağı |
+| `out/kontrol/bir-kapi-daha-*.png` | Kontrol kareleri |
+
+Ses yok: müzik ve ses efektleri CapCut'ta, plandaki zaman tablosuna göre eklenir.
+
+## Gerçek çekim ya da AI klibi koymak
+
+Görüntüler şimdilik çizim (animasyon). Bir sahne için klip hazır olunca:
+
+1. Klibi `public/kapi/klipler/` klasörüne koy (9:16, sahne süresi kadar).
+2. `kapi.json` içinde `clips` altındaki ilgili sahneye dosya adını yaz, örneğin `"sahne4": "salon.mp4"`.
+3. `npm run render:kapi` ile yeniden üret. Yazılar, gren ve davet ekranı klibin üstüne aynen gelir.
+
+| Anahtar | Süre |
+| --- | --- |
+| `sahne1` | 0-5 sn, koridor |
+| `sahne2` | 5-10 sn, kapı açılıyor ve çay masası |
+| `sahne3` | 10-16 sn, kesmeler |
+| `sahne4` | 16-22 sn, salon |
+
+Son 8 saniye (logo ve davet) her zaman koddan üretilir. Yazıları değiştirmek için `kapi.json` içindeki `texts` ve `invite` alanlarını düzenle.
+
+Logo: `public/kapi/logo.png`, verilen orijinal logodan yuvarlak kırpılarak üretildi. Elinizde daha yüksek çözünürlüklü (SVG ya da büyük PNG) sürüm varsa aynı adla değiştirin.

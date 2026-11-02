@@ -1,0 +1,59 @@
+{
+  "output": {
+    "name": "bir-kapi-daha"
+  },
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 24,
+    "durationSeconds": 30
+  },
+  "colors": {
+    "navy": "#00163A",
+    "red": "#A01D1E",
+    "logoBlue": "#3169B5",
+    "logoRed": "#A5454A",
+    "warm": "#FFC98A",
+    "text": "#FFFFFF"
+  },
+  "safeArea": {
+    "left": 90,
+    "right": 990,
+    "top": 250,
+    "bottom": 1480
+  },
+  "texts": [
+    { "start": 1.2, "end": 2.1, "text": "Dediler ki:" },
+    { "start": 2.1, "end": 4.8, "text": "Birkaç kişiyle bu iş olmaz." },
+    { "start": 6.8, "end": 9.8, "text": "Biz bir kapı daha çaldık." },
+    { "start": 10.2, "end": 12.9, "text": "Servis servis, kurum kurum…" },
+    { "start": 13.1, "end": 15.8, "text": "Birbirimizi bulduk, çoğaldık." },
+    { "start": 18.5, "end": 21.8, "text": "Bugün aynı çatı altında, yan yanayız." }
+  ],
+  "invite": {
+    "logoAt": 22.3,
+    "logoUpAt": 24.5,
+    "titleAt": 25.0,
+    "dateAt": 25.6,
+    "placeAt": 26.2,
+    "closingAt": 28.0,
+    "union": "GENÇ SAĞLIK SENDİKASI",
+    "title": "KASTAMONU ŞUBESİ AÇILIŞI",
+    "subtitle": "ve 1. Olağan Genel Kurulu",
+    "date": "8 Kasım 2026 Pazar",
+    "time": "Saat 13.30",
+    "place": "Muzaffer Berber Konferans Salonu",
+    "address": "Kastamonu Belediye Binası, 2. Kat",
+    "closing": "Bu hikâyede senin de yerin var."
+  },
+  "clips": {
+    "sahne1": null,
+    "sahne2": null,
+    "sahne3": null,
+    "sahne4": null
+  },
+  "cover": {
+    "title": "Bir kapı daha…",
+    "subtitle": "Kastamonu Şubesi açılıyor"
+  }
+}
