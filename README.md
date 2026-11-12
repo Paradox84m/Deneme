@@ -2,6 +2,15 @@
 
 Instagram Reels için sessiz video + altyazı üretir. Ses CapCut'ta ayrıca eklenir.
 
+Projede iki video var:
+
+| Video | Ayar dosyası | Komut |
+| --- | --- | --- |
+| Sağlıkçılar Evi | `reel.json` | `npm run render` |
+| İzin günü ("Bu ay kaçıncı?") | `izin-gunu.json` | `npm run render:izin` |
+
+Fontlar (Inter, Caveat) `public/fonts` içinde durur, render sırasında internete çıkılmaz.
+
 ## Kurulum
 
 ```bash
@@ -24,11 +33,25 @@ npm run render
 | `kapak.png` | 1080x1920 kapak |
 | `kontrol/kare-*.png` | 1, 9, 17, 24 ve 30. saniyelerden kontrol kareleri |
 
+İzin günü videosu için dosya adları `izin-gunu-` ile başlar, kapak `out/izin-gunu-kapak.png`, kontrol kareleri `out/kontrol/izin-gunu/` altına yazılır.
+
 Betik iki videoda da ses kanalı olmadığını `npx remotion ffprobe` ile doğrular.
 
 Önizleme ve düzenleme için: `npm run studio`
 
-## Yeni video için
+## İzin günü videosu (`izin-gunu.json`)
+
+Sahne kodları `src/izin/` altında. JSON'dan değiştirilebilenler:
+
+- `caller`: telefonda arayan adı
+- `scenes.*`: her sahnenin başlangıç/bitiş saniyesi, ekrandaki yazılar, tarih ve saatler, mesaj metni, DM'deki sayı
+- `subtitles`: altyazılar. `"onScreen": true` olanlar ekranda zaten büyük yazıyla göründüğü için videoya basılmaz, SRT'ye girer.
+- `checkFrames`: kontrol karelerinin saniyeleri
+- `cover.title`: kapak yazısı
+
+Son 0,7 saniye videonun başına bağlanır (koridor sahnesi), Reels döngüye girince kesinti hissedilmez.
+
+## Yeni video için (Sağlıkçılar Evi düzeni)
 
 Sadece `reel.json` dosyasını değiştir:
 

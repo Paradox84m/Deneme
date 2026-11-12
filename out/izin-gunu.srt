@@ -1,0 +1,19 @@
+1
+00:00:02,600 --> 00:00:05,200
+Açmasan aklın kalıyor.
+
+2
+00:00:06,000 --> 00:00:09,000
+Bir arkadaş rapor aldı, bugün gelebilir misin?
+
+3
+00:00:18,000 --> 00:00:21,800
+Personel açığını hep aynı insanlar kapatıyor.
+
+4
+00:00:22,200 --> 00:00:25,400
+Bu ay izin gününde kaç kez işe çağrıldın?
+
+5
+00:00:25,400 --> 00:00:28,000
+DM'ye sadece sayıyı yaz.

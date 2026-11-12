@@ -5,12 +5,12 @@
   "description": "Remotion ile Instagram Reels: sahneler ve altyazılar reel.json dosyasından okunur",
   "scripts": {
     "studio": "remotion studio",
-    "render": "node scripts/render.mjs",
+    "render": "node scripts/render.mjs reel.json",
+    "render:izin": "node scripts/render.mjs izin-gunu.json",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@remotion/cli": "4.0.534",
-    "@remotion/google-fonts": "4.0.534",
     "@remotion/layout-utils": "4.0.534",
     "react": "19.3.0",
     "react-dom": "19.3.0",

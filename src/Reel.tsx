@@ -1,11 +1,14 @@
 import React from 'react';
 import {AbsoluteFill, interpolate, Sequence, useCurrentFrame} from 'remotion';
-import {C, FPS, reel, Scene, sec} from './data';
+import {C, FPS, isShownOnScreen, reel, Scene, sec} from './data';
 import {ListBoard} from './scenes/ListBoard';
 import {NightSceneView} from './scenes/NightScene';
 import {CardsSceneView} from './scenes/CardsScene';
 import {FinaleSceneView} from './scenes/FinaleScene';
 import {Subtitles} from './Subtitles';
+import {useFontsReady} from './useFontsReady';
+
+const burnedSubs = reel.subtitles.filter((s) => !isShownOnScreen(s));
 
 const FADE = 7; // sahne girişinde kısa geçiş (kare)
 
@@ -34,7 +37,9 @@ function renderScene(scene: Scene) {
 	}
 }
 
-export const Reel: React.FC<{subtitles: boolean}> = ({subtitles}) => (
+export const Reel: React.FC<{subtitles: boolean}> = ({subtitles}) => {
+	useFontsReady();
+	return (
 	<AbsoluteFill style={{backgroundColor: C.paper}}>
 		{reel.scenes.map((scene, i) => {
 			const prev = reel.scenes[i - 1];
@@ -46,6 +51,7 @@ export const Reel: React.FC<{subtitles: boolean}> = ({subtitles}) => (
 				</Sequence>
 			);
 		})}
-		{subtitles ? <Subtitles /> : null}
+		{subtitles ? <Subtitles subs={burnedSubs} {...reel.subtitleStyle} /> : null}
 	</AbsoluteFill>
-);
+	);
+};

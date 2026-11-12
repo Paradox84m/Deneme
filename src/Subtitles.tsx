@@ -2,7 +2,7 @@ import React, {useMemo} from 'react';
 import {AbsoluteFill, useCurrentFrame} from 'remotion';
 import {measureText} from '@remotion/layout-utils';
 import {INTER} from './fonts';
-import {FPS, isShownOnScreen, reel, SAFE, Subtitle} from './data';
+import {FPS, SAFE, Subtitle} from './data';
 import {useFontsReady} from './useFontsReady';
 
 const PAD_X = 34;
@@ -59,15 +59,20 @@ function paginate(sub: Subtitle, fontSize: number, maxLines: number): Page[] {
 	});
 }
 
-export const Subtitles: React.FC = () => {
+type Props = {
+	subs: Subtitle[]; // videoya basılacak altyazılar (ekranda büyük yazıyla görünenler çıkarılmış)
+	fontSize: number;
+	maxLines: number;
+};
+
+export const Subtitles: React.FC<Props> = ({subs, fontSize, maxLines}) => {
 	const frame = useCurrentFrame();
 	const ready = useFontsReady();
-	const {fontSize, maxLines} = reel.subtitleStyle;
 
 	const pages = useMemo(() => {
 		if (!ready) return [];
-		return reel.subtitles.filter((s) => !isShownOnScreen(s)).flatMap((s) => paginate(s, fontSize, maxLines));
-	}, [ready, fontSize, maxLines]);
+		return subs.flatMap((s) => paginate(s, fontSize, maxLines));
+	}, [ready, subs, fontSize, maxLines]);
 
 	const t = frame / FPS;
 	const page = pages.find((p) => t >= p.start && t < p.end);
