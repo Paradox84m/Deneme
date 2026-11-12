@@ -49,6 +49,17 @@ Sahne kodları `src/izin/` altında. JSON'dan değiştirilebilenler:
 - `checkFrames`: kontrol karelerinin saniyeleri
 - `cover.title`: kapak yazısı
 
+### Ses (`npm run ses:izin`)
+
+`npm run render:izin` sonrası çalıştır. Gerekenler: `pip install numpy scipy` ve `espeak-ng`.
+
+- `out/ses/efektler.wav`: titreşim, anahtar, tuş sesleri, geçişler, ortam sesi, kapanış zemini
+- `out/ses/gecici-dis-ses.wav` ve `out/ses/dis-ses/*.wav`: espeak ile kılavuz dış ses. Sadece zamanlama için, yayına uygun değil.
+- `out/izin-gunu-efektli.mp4`: altyazılı video + efektler (dış sesi CapCut'ta ekle)
+- `out/izin-gunu-taslak-sesli.mp4`: efektler + geçici dış ses, zamanlamayı görmek için
+
+Efektlerin zamanlaması `izin-gunu.json` içindeki sahne saniyelerinden okunur. Arayanın cümlesi `"voice": "caller"` ile işaretli, telefon hattı gibi filtrelenir.
+
 Son 0,7 saniye videonun başına bağlanır (koridor sahnesi), Reels döngüye girince kesinti hissedilmez.
 
 ## Yeni video için (Sağlıkçılar Evi düzeni)

@@ -27,7 +27,7 @@
     "top": 250,
     "bottom": 1480
   },
-  "caller": "Vardiya Sorumlusu",
+  "caller": "Sorumlu",
   "scenes": {
     "hallway": {
       "start": 0,
@@ -87,11 +87,16 @@
   },
   "subtitles": [
     {"start": 2.6, "end": 5.2, "text": "Açmasan aklın kalıyor."},
-    {"start": 6.0, "end": 9.0, "text": "Bir arkadaş rapor aldı, bugün gelebilir misin?"},
+    {"start": 6.0, "end": 9.0, "text": "Bir arkadaş rapor aldı, bugün gelebilir misin?", "voice": "caller"},
     {"start": 18.0, "end": 21.8, "text": "Personel açığını hep aynı insanlar kapatıyor."},
     {"start": 22.2, "end": 25.4, "text": "Bu ay izin gününde kaç kez işe çağrıldın?", "onScreen": true},
     {"start": 25.4, "end": 28.0, "text": "DM'ye sadece sayıyı yaz.", "onScreen": true}
   ],
+  "audio": {
+    "sampleRate": 48000,
+    "narratorVoice": "tr",
+    "callerVoice": "tr+f3"
+  },
   "subtitleStyle": {
     "fontSize": 58,
     "maxLines": 2
